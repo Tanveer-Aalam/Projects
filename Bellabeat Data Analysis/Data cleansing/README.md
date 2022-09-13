@@ -1,0 +1,2 @@
+The CSV file 'dailyActivity.csv' is cleaned using the tool - Microsoft Excel.
+The CSV file has a column called 'ActivityDate' which is in improper format. Since the dataset is a smaller one, MS Excel is used to clean the data.
