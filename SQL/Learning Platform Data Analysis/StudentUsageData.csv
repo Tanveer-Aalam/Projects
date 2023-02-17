@@ -1,0 +1,1004 @@
+Date,Month,Day_of_week,userId,first_name,last_name,full_name,Course_Name,ClassName,Duration,Grade,School_Name
+02-Aug-22,Aug,Tuesday,101,Mownesh,M,Mownesh M,Bird Feeder,null,160,3,ABC
+02-Aug-22,Aug,Tuesday,101,Mownesh,M,Mownesh M,Bird Feeder,null,185,3,ABC
+02-Aug-22,Aug,Tuesday,101,Mownesh,M,Mownesh M,Bird Feeder,null,110,3,ABC
+02-Aug-22,Aug,Tuesday,107,Girish,K S,Girish K S,Tips and Tricks- Addition and Subtraction,null,100,4,VVCE
+02-Aug-22,Aug,Tuesday,107,Girish,K S,Girish K S,Wind Vane,null,195,4,VVCE
+02-Aug-22,Aug,Tuesday,107,Girish,K S,Girish K S,Tips and Tricks- Addition and Subtraction,null,225,4,VVCE
+02-Aug-22,Aug,Tuesday,113,Girish,G,Girish G,The Art of Being Polite,null,225,5,TQH
+02-Aug-22,Aug,Tuesday,113,Girish,G,Girish G,Tips and Tricks- Addition and Subtraction,null,245,5,TQH
+02-Aug-22,Aug,Tuesday,119,Likith,P,Likith P,Air Current,null,20,6,ABC
+02-Aug-22,Aug,Tuesday,125,Uday,Kumar,Uday Kumar,The Art of Being Polite,null,520,7,VVCE
+02-Aug-22,Aug,Tuesday,131,Ranjith,C,Ranjith C,Putting Thoughts on Paper,null,20,8,TQH
+02-Aug-22,Aug,Tuesday,137,Charan,M,Charan M,Bird Feeder,null,25,9,ABC
+02-Aug-22,Aug,Tuesday,137,Charan,M,Charan M,Tips and Tricks- Addition and Subtraction,null,290,9,ABC
+02-Aug-22,Aug,Tuesday,143,Pavan,P,Pavan P,Tips and Tricks- Addition and Subtraction,null,250,3,VVCE
+02-Aug-22,Aug,Tuesday,143,Pavan,P,Pavan P,Tips and Tricks- Addition and Subtraction,null,145,3,VVCE
+02-Aug-22,Aug,Tuesday,149,Sowmya,P,Sowmya P,Tips and Tricks- Addition and Subtraction,null,25,4,TQH
+02-Aug-22,Aug,Tuesday,149,Sowmya,P,Sowmya P,Tips and Tricks- Multiplication and Division,null,35,4,TQH
+02-Aug-22,Aug,Tuesday,149,Sowmya,P,Sowmya P,Tips and Tricks- Multiplication and Division,null,45,4,TQH
+03-Aug-22,Aug,Wednesday,155,Pradeep,K,Pradeep K,Bird Feeder,null,25,5,ABC
+03-Aug-22,Aug,Wednesday,161,Abhishek,V,Abhishek V,Putting Thoughts on Paper,null,480,6,VVCE
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Tips and Tricks- Multiplication and Division,null,125,7,TQH
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Putting Thoughts on Paper,null,170,7,TQH
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Tips and Tricks- Multiplication and Division,null,255,7,TQH
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Wind Vane,null,320,7,TQH
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Tips and Tricks- Multiplication and Division,null,165,7,TQH
+03-Aug-22,Aug,Wednesday,167,Karan,B,Karan B,Lightsaber,null,25,7,TQH
+03-Aug-22,Aug,Wednesday,173,Rajesh,chowdary,Rajesh chowdary,Putting Thoughts on Paper,null,395,8,ABC
+03-Aug-22,Aug,Wednesday,173,Rajesh,chowdary,Rajesh chowdary,Putting Thoughts on Paper,null,465,8,ABC
+04-Aug-22,Aug,Thursday,179,Sri,Veda,Sri Veda,Putting Thoughts on Paper,null,70,9,VVCE
+04-Aug-22,Aug,Thursday,179,Sri,Veda,Sri Veda,Greetings and Wishes,null,400,9,VVCE
+04-Aug-22,Aug,Thursday,179,Sri,Veda,Sri Veda,Greetings and Wishes,null,450,9,VVCE
+04-Aug-22,Aug,Thursday,185,Diganth,Raj,Diganth Raj,Putting Thoughts on Paper,null,20,3,TQH
+04-Aug-22,Aug,Thursday,191,Md.,Zunain,Md. Zunain,The Art of Being Polite,null,65,4,ABC
+04-Aug-22,Aug,Thursday,191,Md.,Zunain,Md. Zunain,The Art of Being Polite,null,50,4,ABC
+04-Aug-22,Aug,Thursday,197,Likith,MD,Likith MD,Air Current,null,30,5,ABC
+04-Aug-22,Aug,Thursday,203,Praveen,M,Praveen M,Bird Feeder,null,145,6,TQH
+04-Aug-22,Aug,Thursday,203,Praveen,M,Praveen M,Bird Feeder,null,255,6,TQH
+04-Aug-22,Aug,Thursday,203,Praveen,M,Praveen M,Bird Feeder,null,125,6,TQH
+04-Aug-22,Aug,Thursday,209,KISHORE,P.S,KISHORE P.S,Let Me Describe,null,25,7,ABC
+05-Aug-22,Aug,Friday,215,Malavika ,H Naik,Malavika  H Naik,Putting Thoughts on Paper,null,20,8,VVCE
+05-Aug-22,Aug,Friday,215,Malavika ,H Naik,Malavika  H Naik,Putting Thoughts on Paper,null,50,8,VVCE
+05-Aug-22,Aug,Friday,221,Siri,malleshwary,Siri malleshwary,Bird Feeder,null,25,9,TQH
+05-Aug-22,Aug,Friday,227,Abhi,Ram,Abhi Ram,The Art of Being Polite,null,25,3,ABC
+05-Aug-22,Aug,Friday,233,Nithya,Prassanna,Nithya Prassanna,Putting Thoughts on Paper,null,25,4,VVCE
+05-Aug-22,Aug,Friday,233,Nithya,Prassanna,Nithya Prassanna,Putting Thoughts on Paper,null,25,4,VVCE
+05-Aug-22,Aug,Friday,239,Harshitha,E,Harshitha E,Let Me Describe,null,70,5,TQH
+05-Aug-22,Aug,Friday,239,Harshitha,E,Harshitha E,Let Me Describe,null,165,5,TQH
+05-Aug-22,Aug,Friday,245,ABINAYA,R,ABINAYA R,Tips and Tricks- Addition and Subtraction,null,70,6,ABC
+05-Aug-22,Aug,Friday,245,ABINAYA,R,ABINAYA R,Tips and Tricks- Addition and Subtraction,null,80,6,ABC
+05-Aug-22,Aug,Friday,251,Bharath,M,Bharath M,Greetings and Wishes,null,115,7,VVCE
+05-Aug-22,Aug,Friday,257,Lalitha,S,Lalitha S,Air Current,null,25,8,TQH
+05-Aug-22,Aug,Friday,251,Bharath,M,Bharath M,Greetings and Wishes,null,25,7,VVCE
+05-Aug-22,Aug,Friday,263,Hiranth,K,Hiranth K,Let Me Describe,null,20,9,ABC
+05-Aug-22,Aug,Friday,263,Hiranth,K,Hiranth K,Let Me Describe,null,45,9,ABC
+05-Aug-22,Aug,Friday,251,Bharath,M,Bharath M,Greetings and Wishes,null,300,7,VVCE
+05-Aug-22,Aug,Friday,251,Bharath,M,Bharath M,Greetings and Wishes,null,55,7,VVCE
+05-Aug-22,Aug,Friday,269,Vignesh,Raj,Vignesh Raj,The Art of Being Polite,null,75,3,VVCE
+05-Aug-22,Aug,Friday,269,Vignesh,Raj,Vignesh Raj,The Art of Being Polite,null,385,3,VVCE
+07-Aug-22,Aug,Sunday,269,Vignesh,Raj,Vignesh Raj,7 Segment LED display,null,520,3,VVCE
+07-Aug-22,Aug,Sunday,269,Vignesh,Raj,Vignesh Raj,The Art of Being Polite,null,380,3,VVCE
+07-Aug-22,Aug,Sunday,275,Nithin,D,Nithin D,Greetings and Wishes,null,20,4,TQH
+07-Aug-22,Aug,Sunday,263,Hiranth,K,Hiranth K,Let Me Describe,null,255,9,ABC
+07-Aug-22,Aug,Sunday,269,Vignesh,Raj,Vignesh Raj,The Art of Being Polite,null,40,3,VVCE
+07-Aug-22,Aug,Sunday,281,Adithya ,R,Adithya  R,Bird Feeder,null,25,5,ABC
+07-Aug-22,Aug,Sunday,281,Adithya ,R,Adithya  R,Bird Feeder,null,25,5,ABC
+07-Aug-22,Aug,Sunday,281,Adithya ,R,Adithya  R,Bird Feeder,null,25,5,ABC
+07-Aug-22,Aug,Sunday,287,Mithun,M,Mithun M,Wind Vane,null,25,6,VVCE
+07-Aug-22,Aug,Sunday,293,Kiran,M,Kiran M,Watercolours - Let's get started,null,25,7,TQH
+07-Aug-22,Aug,Sunday,293,Kiran,M,Kiran M,Putting Thoughts on Paper,null,25,7,TQH
+07-Aug-22,Aug,Sunday,275,Nithin,D,Nithin D,Greetings and Wishes,null,25,4,TQH
+08-Aug-22,Aug,Monday,275,Nithin,D,Nithin D,The Pinwheel,null,25,4,TQH
+08-Aug-22,Aug,Monday,275,Nithin,D,Nithin D,Greetings and Wishes,null,25,4,TQH
+08-Aug-22,Aug,Monday,299,Abhinav,T,Abhinav T,Let Me Tell You a Story,null,240,8,ABC
+08-Aug-22,Aug,Monday,299,Abhinav,T,Abhinav T,Tips and Tricks- Addition and Subtraction,null,195,8,ABC
+08-Aug-22,Aug,Monday,305,Praful,N,Praful N,Air Current,null,25,9,VVCE
+08-Aug-22,Aug,Monday,311,Viraj,K,Viraj K,The Art of Being Polite,null,650,3,TQH
+08-Aug-22,Aug,Monday,311,Viraj,K,Viraj K,The Art of Conveying,null,30,3,TQH
+08-Aug-22,Aug,Monday,311,Viraj,K,Viraj K,The Pinwheel,null,210,3,TQH
+25-Aug-22,Aug,Thursday,311,Viraj,K,Viraj K,The Art of Conveying,null,225,3,TQH
+25-Aug-22,Aug,Thursday,311,Viraj,K,Viraj K,The Art of Conveying,null,205,3,TQH
+25-Aug-22,Aug,Thursday,275,Nithin,D,Nithin D,Greetings and Wishes,null,1435,4,TQH
+25-Aug-22,Aug,Thursday,311,Viraj,K,Viraj K,The Art of Conveying,null,355,3,TQH
+25-Aug-22,Aug,Thursday,311,Viraj,K,Viraj K,The Art of Conveying,null,30,3,TQH
+25-Aug-22,Aug,Thursday,317,Gagan,V,Gagan V,Wind Vane,null,55,4,ABC
+25-Aug-22,Aug,Thursday,311,Viraj,K,Viraj K,The Art of Being Polite,null,40,3,TQH
+25-Aug-22,Aug,Thursday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,100,4,ABC
+26-Aug-22,Aug,Friday,317,Gagan,V,Gagan V,Blynk IOT with Esp32,null,875,4,ABC
+26-Aug-22,Aug,Friday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,705,4,ABC
+26-Aug-22,Aug,Friday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,415,4,ABC
+26-Aug-22,Aug,Friday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,285,4,ABC
+26-Aug-22,Aug,Friday,323,Rohit,M,Rohit M,Tips and Tricks- Multiplication and Division,null,35,5,VVCE
+26-Aug-22,Aug,Friday,323,Rohit,M,Rohit M,7 Segment LED display,null,160,5,VVCE
+27-Aug-22,Aug,Saturday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,360,4,ABC
+27-Aug-22,Aug,Saturday,323,Rohit,M,Rohit M,Tips and Tricks- Multiplication and Division,null,125,5,VVCE
+27-Aug-22,Aug,Saturday,323,Rohit,M,Rohit M,Tips and Tricks- Multiplication and Division,null,210,5,VVCE
+27-Aug-22,Aug,Saturday,311,Viraj,K,Viraj K,The Art of Being Polite,null,25,3,TQH
+27-Aug-22,Aug,Saturday,329,Likith,M D,Likith M D,Putting Thoughts on Paper,null,25,6,TQH
+27-Aug-22,Aug,Saturday,317,Gagan,V,Gagan V,Watercolours - Let's get started,null,875,4,ABC
+27-Aug-22,Aug,Saturday,323,Rohit,M,Rohit M,Tips and Tricks- Multiplication and Division,null,160,5,VVCE
+27-Aug-22,Aug,Saturday,323,Rohit,M,Rohit M,Tips and Tricks- Multiplication and Division,null,240,5,VVCE
+28-Aug-22,Aug,Sunday,335,Shrath,S,Shrath S,Let Me Describe,null,420,7,ABC
+28-Aug-22,Aug,Sunday,335,Shrath,S,Shrath S,Let Me Describe,null,35,7,ABC
+28-Aug-22,Aug,Sunday,335,Shrath,S,Shrath S,Let Me Describe,null,510,7,ABC
+28-Aug-22,Aug,Sunday,341,Anjali,M,Anjali M,Tips and Tricks- Multiplication and Division,null,100,8,VVCE
+28-Aug-22,Aug,Sunday,341,Anjali,M,Anjali M,Calculator App,null,25,8,VVCE
+29-Aug-22,Aug,Monday,341,Anjali,M,Anjali M,Tips and Tricks- Addition and Subtraction,null,100,8,VVCE
+29-Aug-22,Aug,Monday,329,Likith,M D,Likith M D,Putting Thoughts on Paper,null,45,6,TQH
+29-Aug-22,Aug,Monday,347,Kavana,K,Kavana K,Air Current,null,255,9,TQH
+29-Aug-22,Aug,Monday,353,Sharanya,K,Sharanya K,The Art of Conveying,null,30,3,ABC
+29-Aug-22,Aug,Monday,275,Nithin,D,Nithin D,Greetings and Wishes,null,115,4,TQH
+29-Aug-22,Aug,Monday,329,Likith,M D,Likith M D,Putting Thoughts on Paper,null,480,6,TQH
+29-Aug-22,Aug,Monday,275,Nithin,D,Nithin D,Greetings and Wishes,null,900,4,TQH
+29-Aug-22,Aug,Monday,161,Abhishek,V,Abhishek V,Wind Vane,null,60,6,VVCE
+30-Aug-22,Aug,Tuesday,161,Abhishek,V,Abhishek V,Global finance,null,30,6,VVCE
+30-Aug-22,Aug,Tuesday,275,Nithin,D,Nithin D,Greetings and Wishes,null,120,4,TQH
+30-Aug-22,Aug,Tuesday,275,Nithin,D,Nithin D,Greetings and Wishes,null,2035,4,TQH
+30-Aug-22,Aug,Tuesday,329,Likith,M D,Likith M D,7 Segment LED display,null,200,6,TQH
+30-Aug-22,Aug,Tuesday,329,Likith,M D,Likith M D,Tips and Tricks- Addition and Subtraction,null,225,6,TQH
+30-Aug-22,Aug,Tuesday,329,Likith,M D,Likith M D,7 Segment LED display,null,240,6,TQH
+01-Sep-22,Sep,Thursday,359,LAKSHANA,A,LAKSHANA A,Putting Thoughts on Paper,null,110,4,VVCE
+01-Sep-22,Sep,Thursday,353,Sharanya,K,Sharanya K,The Art of Conveying,null,355,3,ABC
+01-Sep-22,Sep,Thursday,329,Likith,M D,Likith M D,Tips and Tricks- Addition and Subtraction,null,190,6,TQH
+01-Sep-22,Sep,Thursday,365,Pallavi,T,Pallavi T,Bird Feeder,null,160,5,TQH
+01-Sep-22,Sep,Thursday,371,Darshan,D,Darshan D,Air Current,null,10,6,ABC
+01-Sep-22,Sep,Thursday,365,Pallavi,T,Pallavi T,Bird Feeder,null,125,5,TQH
+01-Sep-22,Sep,Thursday,275,Nithin,D,Nithin D,Greetings and Wishes,null,300,4,TQH
+02-Sep-22,Sep,Friday,329,Likith,M D,Likith M D,Tips and Tricks- Addition and Subtraction,null,20,6,TQH
+02-Sep-22,Sep,Friday,329,Likith,M D,Likith M D,Tips and Tricks- Addition and Subtraction,null,20,6,TQH
+02-Sep-22,Sep,Friday,275,Nithin,D,Nithin D,Greetings and Wishes,null,55,4,TQH
+02-Sep-22,Sep,Friday,377,Sagar,S,Sagar S,The Art of Being Polite,null,380,7,VVCE
+02-Sep-22,Sep,Friday,377,Sagar,S,Sagar S,The Art of Being Polite,null,520,7,VVCE
+03-Sep-22,Sep,Saturday,377,Sagar,S,Sagar S,The Art of Being Polite,null,380,7,VVCE
+03-Sep-22,Sep,Saturday,329,Likith,M D,Likith M D,Putting Thoughts on Paper,null,395,6,TQH
+03-Sep-22,Sep,Saturday,377,Sagar,S,Sagar S,The Art of Being Polite,null,35,7,VVCE
+03-Sep-22,Sep,Saturday,383,ASHWIN,B,ASHWIN B,Let Me Describe,null,155,8,TQH
+04-Sep-22,Sep,Sunday,383,ASHWIN,B,ASHWIN B,Let Me Describe,null,325,8,TQH
+04-Sep-22,Sep,Sunday,383,ASHWIN,B,ASHWIN B,Let Me Describe,null,550,8,TQH
+04-Sep-22,Sep,Sunday,383,ASHWIN,B,ASHWIN B,Let Me Describe,null,580,8,TQH
+04-Sep-22,Sep,Sunday,383,ASHWIN,B,ASHWIN B,Let Me Describe,null,35,8,TQH
+04-Sep-22,Sep,Sunday,389,DEEKSHA,K,DEEKSHA K,Air Current,null,85,9,ABC
+04-Sep-22,Sep,Sunday,389,DEEKSHA,K,DEEKSHA K,Air Current,null,20,9,ABC
+04-Sep-22,Sep,Sunday,389,DEEKSHA,K,DEEKSHA K,Air Current,null,80,9,ABC
+06-Sep-22,Sep,Tuesday,395,HARINI,S,HARINI S,Ukulele - Part 4,null,5,3,VVCE
+06-Sep-22,Sep,Tuesday,371,Darshan,D,Darshan D,Tips and Tricks- Multiplication and Division,null,185,6,ABC
+06-Sep-22,Sep,Tuesday,401,Chethan,PC,Chethan PC,Money Management,null,220,4,TQH
+06-Sep-22,Sep,Tuesday,401,Chethan,PC,Chethan PC,Money Management,null,95,4,TQH
+06-Sep-22,Sep,Tuesday,401,Chethan,PC,Chethan PC,Money Management,null,180,4,TQH
+06-Sep-22,Sep,Tuesday,407,Tejas,RH,Tejas RH,About Time,null,140,5,ABC
+06-Sep-22,Sep,Tuesday,407,Tejas,RH,Tejas RH,About Time,null,365,5,ABC
+06-Sep-22,Sep,Tuesday,407,Tejas,RH,Tejas RH,About Time,null,200,5,ABC
+06-Sep-22,Sep,Tuesday,407,Tejas,RH,Tejas RH,About Time,null,215,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,195,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,10,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,115,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,350,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,60,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,670,5,ABC
+07-Sep-22,Sep,Wednesday,407,Tejas,RH,Tejas RH,About Time,null,240,5,ABC
+08-Sep-22,Sep,Thursday,407,Tejas,RH,Tejas RH,About Time,null,115,5,ABC
+08-Sep-22,Sep,Thursday,407,Tejas,RH,Tejas RH,About Time,null,155,5,ABC
+08-Sep-22,Sep,Thursday,413,Kushal,BM,Kushal BM,Air Current,null,25,6,VVCE
+08-Sep-22,Sep,Thursday,413,Kushal,BM,Kushal BM,Air Current,null,330,6,VVCE
+08-Sep-22,Sep,Thursday,419,Manvi,BS,Manvi BS,Wind Vane,null,20,7,TQH
+08-Sep-22,Sep,Thursday,419,Manvi,BS,Manvi BS,Wind Vane,null,80,7,TQH
+08-Sep-22,Sep,Thursday,419,Manvi,BS,Manvi BS,Wind Vane,null,450,7,TQH
+08-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,670,8,ABC
+09-Sep-22,Sep,Friday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,820,8,ABC
+09-Sep-22,Sep,Friday,425,Neha,sree,Neha sree,Ukulele - Part 5,null,520,8,ABC
+09-Sep-22,Sep,Friday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,155,9,VVCE
+09-Sep-22,Sep,Friday,437,Dayana,K,Dayana K,Wind Vane,null,125,3,TQH
+09-Sep-22,Sep,Friday,437,Dayana,K,Dayana K,Wind Vane,null,115,3,TQH
+09-Sep-22,Sep,Friday,437,Dayana,K,Dayana K,Wind Vane,null,195,3,TQH
+09-Sep-22,Sep,Friday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,220,9,VVCE
+09-Sep-22,Sep,Friday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,265,9,VVCE
+09-Sep-22,Sep,Friday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,160,9,VVCE
+10-Sep-22,Sep,Saturday,443,Sannidhi,BN,Sannidhi BN,Air Current,null,250,4,ABC
+10-Sep-22,Sep,Saturday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,225,9,VVCE
+10-Sep-22,Sep,Saturday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,140,9,VVCE
+10-Sep-22,Sep,Saturday,449,M,Koushik,M Koushik,Money Management,null,5,5,VVCE
+10-Sep-22,Sep,Saturday,449,M,Koushik,M Koushik,Money Management,null,300,5,VVCE
+10-Sep-22,Sep,Saturday,455,Rudhra,Swami,Rudhra Swami,Watercolours - Let's get started,null,25,6,TQH
+10-Sep-22,Sep,Saturday,455,Rudhra,Swami,Rudhra Swami,Watercolours - Let's get started,null,25,6,TQH
+10-Sep-22,Sep,Saturday,455,Rudhra,Swami,Rudhra Swami,Watercolours - Let's get started,null,25,6,TQH
+10-Sep-22,Sep,Saturday,443,Sannidhi,BN,Sannidhi BN,Air Current,null,20,4,ABC
+12-Sep-22,Sep,Monday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,105,8,ABC
+12-Sep-22,Sep,Monday,461,Yeshwanth,Kumar,Yeshwanth Kumar,Tips and Tricks- Addition and Subtraction,null,220,7,ABC
+12-Sep-22,Sep,Monday,461,Yeshwanth,Kumar,Yeshwanth Kumar,Tips and Tricks- Addition and Subtraction,null,180,7,ABC
+12-Sep-22,Sep,Monday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,230,8,ABC
+12-Sep-22,Sep,Monday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,265,8,ABC
+12-Sep-22,Sep,Monday,467,Sanjay,M,Sanjay M,Wind Vane,null,90,8,VVCE
+12-Sep-22,Sep,Monday,467,Sanjay,M,Sanjay M,Wind Vane,null,75,8,VVCE
+12-Sep-22,Sep,Monday,473,Bhanu,P,Bhanu P,Air Current,null,1170,9,TQH
+12-Sep-22,Sep,Monday,473,Bhanu,P,Bhanu P,DIY - Marble run,null,120,9,TQH
+13-Sep-22,Sep,Tuesday,473,Bhanu,P,Bhanu P,Arduino: Analog In - sensors,null,135,9,TQH
+13-Sep-22,Sep,Tuesday,479,Prasad,M,Prasad M,Watercolours - Let's get started,null,25,3,ABC
+13-Sep-22,Sep,Tuesday,479,Prasad,M,Prasad M,Watercolours - Let's get started,null,25,3,ABC
+13-Sep-22,Sep,Tuesday,485,Johan,,Johan ,Money Management,null,25,4,VVCE
+13-Sep-22,Sep,Tuesday,485,Johan,,Johan ,Money Management,null,25,4,VVCE
+13-Sep-22,Sep,Tuesday,485,Johan,,Johan ,Money Management,null,25,4,VVCE
+14-Sep-22,Sep,Wednesday,491,Vineeth,KS,Vineeth KS,Putting Thoughts on Paper,null,55,5,TQH
+14-Sep-22,Sep,Wednesday,497,Keerthi,D,Keerthi D,Greetings and Wishes,null,25,6,ABC
+14-Sep-22,Sep,Wednesday,503,Deepak,M,Deepak M,Spatial Sense,null,750,7,VVCE
+14-Sep-22,Sep,Wednesday,503,Deepak,M,Deepak M,Spatial Sense,null,450,7,VVCE
+14-Sep-22,Sep,Wednesday,503,Deepak,M,Deepak M,Spatial Sense,null,315,7,VVCE
+15-Sep-22,Sep,Thursday,503,Deepak,M,Deepak M,Spatial Sense,null,270,7,VVCE
+15-Sep-22,Sep,Thursday,503,Deepak,M,Deepak M,Spatial Sense,null,210,7,VVCE
+15-Sep-22,Sep,Thursday,503,Deepak,M,Deepak M,Spatial Sense,null,210,7,VVCE
+15-Sep-22,Sep,Thursday,509,Rishi,Prasad,Rishi Prasad,Money Management,null,25,8,TQH
+15-Sep-22,Sep,Thursday,515,Hima,Bharathi,Hima Bharathi,Watercolours - Let's get started,null,30,9,ABC
+15-Sep-22,Sep,Thursday,515,Hima,Bharathi,Hima Bharathi,Watercolours - Let's get started,null,420,9,ABC
+15-Sep-22,Sep,Thursday,515,Hima,Bharathi,Hima Bharathi,Watercolours - Let's get started,null,50,9,ABC
+15-Sep-22,Sep,Thursday,431,Jhanavi,C,Jhanavi C,Bird Feeder,null,25,9,VVCE
+15-Sep-22,Sep,Thursday,515,Hima,Bharathi,Hima Bharathi,Watercolours - Let's get started,null,375,9,ABC
+15-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 5,null,515,8,ABC
+15-Sep-22,Sep,Thursday,521,Md.,Zaid,Md. Zaid,Spatial Sense,null,80,3,VVCE
+15-Sep-22,Sep,Thursday,521,Md.,Zaid,Md. Zaid,Spatial Sense,null,100,3,VVCE
+15-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,5,8,ABC
+15-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,500,8,ABC
+15-Sep-22,Sep,Thursday,527,Md.,Fazil,Md. Fazil,Let Me Describe,null,10,4,TQH
+15-Sep-22,Sep,Thursday,527,Md.,Fazil,Md. Fazil,Let Me Describe,null,95,4,TQH
+15-Sep-22,Sep,Thursday,533,Kavya,sree,Kavya sree,Wind Vane,null,130,5,ABC
+15-Sep-22,Sep,Thursday,539,Manish,M,Manish M,Watercolours - Let's get started,null,100,6,VVCE
+16-Sep-22,Sep,Friday,539,Manish,M,Manish M,Watercolours - Let's get started,null,105,6,VVCE
+16-Sep-22,Sep,Friday,533,Kavya,sree,Kavya sree,Wind Vane,null,10,5,ABC
+16-Sep-22,Sep,Friday,539,Manish,M,Manish M,Watercolours - Let's get started,null,25,6,VVCE
+16-Sep-22,Sep,Friday,545,Md.,Irfan,Md. Irfan,Tips and Tricks- Addition and Subtraction,null,15,7,TQH
+17-Sep-22,Sep,Saturday,377,Sagar,M,Sagar M,The Art of Being Polite,null,25,7,VVCE
+17-Sep-22,Sep,Saturday,539,Manish,M,Manish M,Watercolours - Let's get started,null,275,6,VVCE
+17-Sep-22,Sep,Saturday,557,Pruthvi,RH,Pruthvi RH,Air Current,null,170,9,VVCE
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,Ukulele - Part 4,null,140,3,TQH
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,Ukulele - Part 5,null,25,3,TQH
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+17-Sep-22,Sep,Saturday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+17-Sep-22,Sep,Saturday,377,Sagar,M,Sagar M,The Art of Being Polite,null,20,7,VVCE
+17-Sep-22,Sep,Saturday,377,Sagar,M,Sagar M,The Art of Being Polite,null,25,7,VVCE
+17-Sep-22,Sep,Saturday,545,Md.,Irfan,Md. Irfan,Tips and Tricks- Multiplication and Division,null,25,7,TQH
+17-Sep-22,Sep,Saturday,569,CHIRADEEP.,R,CHIRADEEP. R,Putting Thoughts on Paper,null,480,4,ABC
+17-Sep-22,Sep,Saturday,575,Shiva,Kumar,Shiva Kumar,Money Management,null,90,5,VVCE
+18-Sep-22,Sep,Sunday,557,Pruthvi,RH,Pruthvi RH,Air Current,null,150,9,VVCE
+18-Sep-22,Sep,Sunday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,45,8,ABC
+18-Sep-22,Sep,Sunday,581,Sohan,D,Sohan D,Spatial Sense,null,25,6,TQH
+18-Sep-22,Sep,Sunday,581,Sohan,D,Sohan D,Spatial Sense,null,25,6,TQH
+18-Sep-22,Sep,Sunday,545,Md.,Irfan,Md. Irfan,Tips and Tricks- Multiplication and Division,null,25,7,TQH
+18-Sep-22,Sep,Sunday,539,Manish,M,Manish M,Watercolours - Let's get started,null,25,6,VVCE
+18-Sep-22,Sep,Sunday,539,Manish,M,Manish M,Watercolours - Let's get started,null,5,6,VVCE
+18-Sep-22,Sep,Sunday,575,Shiva,Kumar,Shiva Kumar,Money Management,null,25,5,VVCE
+18-Sep-22,Sep,Sunday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+18-Sep-22,Sep,Sunday,563,Tejaswini,T,Tejaswini T,About Time,null,25,3,TQH
+18-Sep-22,Sep,Sunday,587,Shalani,M,Shalani M,Spatial Sense,null,105,7,ABC
+18-Sep-22,Sep,Sunday,575,Shiva,Kumar,Shiva Kumar,Money Management,null,70,5,VVCE
+20-Sep-22,Sep,Tuesday,539,Manish,M,Manish M,Watercolours - Let's get started,null,180,6,VVCE
+20-Sep-22,Sep,Tuesday,575,Shiva,Kumar,Shiva Kumar,Money Management,null,25,5,VVCE
+20-Sep-22,Sep,Tuesday,539,Manish,M,Manish M,Watercolours - Let's get started,null,440,6,VVCE
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,265,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,5,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,3000,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,225,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,145,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 2,null,30,8,ABC
+20-Sep-22,Sep,Tuesday,593,Sudha,sree,Sudha sree,Putting Thoughts on Paper,null,560,8,VVCE
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 4,null,440,8,ABC
+20-Sep-22,Sep,Tuesday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,35,8,ABC
+21-Sep-22,Sep,Wednesday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,45,8,ABC
+21-Sep-22,Sep,Wednesday,599,Sanju,S.B,Sanju S.B,Spatial Sense,null,20,9,TQH
+21-Sep-22,Sep,Wednesday,605,Anish,G,Anish G,Tips and Tricks- Multiplication and Division,null,60,3,ABC
+21-Sep-22,Sep,Wednesday,605,Anish,G,Anish G,Tips and Tricks- Multiplication and Division,null,25,3,ABC
+21-Sep-22,Sep,Wednesday,611,Sai,Jeevan,Sai Jeevan,Greetings and Wishes,null,5,4,VVCE
+22-Sep-22,Sep,Thursday,617,Md.,Arham,Md. Arham,DIY- Marble run,null,25,5,TQH
+22-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,20,8,ABC
+22-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,35,8,ABC
+22-Sep-22,Sep,Thursday,623,Moneesh ,Gowda,Moneesh  Gowda,Handmade Birthday Cards,null,25,6,ABC
+22-Sep-22,Sep,Thursday,629,Vaishnavi,K,Vaishnavi K,Tips and Tricks- Addition and Subtraction,null,420,7,VVCE
+22-Sep-22,Sep,Thursday,629,Vaishnavi,K,Vaishnavi K,Tips and Tricks- Addition and Subtraction,null,10,7,VVCE
+22-Sep-22,Sep,Thursday,635,Chirag,Raj,Chirag Raj,Dance on Ghungroo,null,25,8,TQH
+22-Sep-22,Sep,Thursday,635,Chirag,Raj,Chirag Raj,Dance on Ghungroo,null,25,8,TQH
+22-Sep-22,Sep,Thursday,287,Mithun,Gowda,Mithun Gowda,Air Current,null,185,6,VVCE
+22-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 3,null,10,8,ABC
+22-Sep-22,Sep,Thursday,647,Pranathi,KS,Pranathi KS,Watercolours - Let's get started,null,110,3,VVCE
+22-Sep-22,Sep,Thursday,647,Pranathi,KS,Pranathi KS,Watercolours - Let's get started,null,25,3,VVCE
+22-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,25,8,ABC
+22-Sep-22,Sep,Thursday,653,Suriya,U.I,Suriya U.I,Make a Maze,null,225,4,TQH
+22-Sep-22,Sep,Thursday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,35,8,ABC
+22-Sep-22,Sep,Thursday,659,Pooja,Sree,Pooja Sree,How to create a story in scratch?,null,55,5,ABC
+22-Sep-22,Sep,Thursday,401,Chethan,P,Chethan P,Florals with Watercolours - Part 2,null,95,4,TQH
+25-Sep-22,Sep,Sunday,623,Moneesh ,Gowda,Moneesh  Gowda,Handmade Birthday Cards,null,45,6,ABC
+25-Sep-22,Sep,Sunday,671,Kavin,S,Kavin S,Putting Thoughts on Paper,null,45,7,TQH
+25-Sep-22,Sep,Sunday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,45,8,ABC
+25-Sep-22,Sep,Sunday,683,Sujith,S,Sujith S,Lightsaber,null,25,9,VVCE
+25-Sep-22,Sep,Sunday,683,Sujith,S,Sujith S,Lightsaber,null,25,9,VVCE
+25-Sep-22,Sep,Sunday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,165,8,ABC
+25-Sep-22,Sep,Sunday,425,Neha,sree,Neha sree,Ukulele - Part 1,null,20,8,ABC
+25-Sep-22,Sep,Sunday,407,Tejas,M,Tejas M,Money Management,null,350,5,ABC
+25-Sep-22,Sep,Sunday,695,Spoorthi,K,Spoorthi K,Watercolours - Let's get started,null,105,4,ABC
+25-Sep-22,Sep,Sunday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,165,8,ABC
+25-Sep-22,Sep,Sunday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,265,8,ABC
+25-Sep-22,Sep,Sunday,701,Krithi,MD,Krithi MD,Handmade Birthday Cards,null,25,5,VVCE
+25-Sep-22,Sep,Sunday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,125,8,ABC
+27-Sep-22,Sep,Tuesday,233,Nithya,M,Nithya M,Money Management,null,20,4,VVCE
+27-Sep-22,Sep,Tuesday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,220,8,ABC
+27-Sep-22,Sep,Tuesday,659,Pooja,S,Pooja S,Putting Thoughts on Paper,null,15,5,ABC
+27-Sep-22,Sep,Tuesday,677,Prerana,B,Prerana B,Tips and Tricks- Multiplication and Division,null,180,8,ABC
+27-Sep-22,Sep,Tuesday,719,Rashmi,M,Rashmi M,Handmade Birthday Cards,null,360,8,VVCE
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Multiplication and Division,null,75,9,TQH
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Multiplication and Division,null,825,9,TQH
+27-Sep-22,Sep,Tuesday,731,Nabeelur,Rehaman,Nabeelur Rehaman,Air Current,null,140,3,ABC
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Multiplication and Division,null,25,9,TQH
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Multiplication and Division,null,25,9,TQH
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Addition and Subtraction,null,105,9,TQH
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Addition and Subtraction,null,220,9,TQH
+27-Sep-22,Sep,Tuesday,731,Nabeelur,Rehaman,Nabeelur Rehaman,Air Current,null,25,3,ABC
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Maze Game,null,25,9,TQH
+27-Sep-22,Sep,Tuesday,725,Harmain,Fathima M,Harmain Fathima M,Maze Game,null,25,9,TQH
+28-Sep-22,Sep,Wednesday,725,Harmain,Fathima M,Harmain Fathima M,Spatial Sense,null,65,9,TQH
+28-Sep-22,Sep,Wednesday,725,Harmain,Fathima M,Harmain Fathima M,Tips and Tricks- Multiplication and Division,null,25,9,TQH
+28-Sep-22,Sep,Wednesday,737,syed ,abdul Ahad,syed  abdul Ahad,The Art of Being Polite,null,100,4,VVCE
+28-Sep-22,Sep,Wednesday,737,syed ,abdul Ahad,syed  abdul Ahad,Money Management,null,175,4,VVCE
+28-Sep-22,Sep,Wednesday,743,Pragathi,C Naik,Pragathi C Naik,Ukulele - Part 1,null,40,5,TQH
+28-Sep-22,Sep,Wednesday,743,Pragathi,C Naik,Pragathi C Naik,Warm Up and Cool Down,null,25,5,TQH
+29-Sep-22,Sep,Thursday,743,Pragathi,C Naik,Pragathi C Naik,Watercolours - Let's get started,null,20,5,TQH
+29-Sep-22,Sep,Thursday,743,Pragathi,C Naik,Pragathi C Naik,Spatial Sense,null,5,5,TQH
+29-Sep-22,Sep,Thursday,749,Mohammed,Mohammed,Mohammed Mohammed,Lightsaber,null,5,6,ABC
+29-Sep-22,Sep,Thursday,755,M Chirantan,Prabhu,M Chirantan Prabhu,Florals with Watercolours - Part 2,null,5,7,VVCE
+29-Sep-22,Sep,Thursday,755,M Chirantan,Prabhu,M Chirantan Prabhu,Florals with Watercolours - Part 2,null,30,7,VVCE
+29-Sep-22,Sep,Thursday,755,M Chirantan,Prabhu,M Chirantan Prabhu,Sense of Clothing and its Care,null,90,7,VVCE
+29-Sep-22,Sep,Thursday,761,Likhitha,s,Likhitha s,Putting Thoughts on Paper,null,45,8,TQH
+29-Sep-22,Sep,Thursday,767,Anusree,D,Anusree D,Warm Up and Cool Down,null,25,9,ABC
+29-Sep-22,Sep,Thursday,773,Asitha,P.S,Asitha P.S,The Art of Conveying,null,50,3,VVCE
+29-Sep-22,Sep,Thursday,779,Preethi,M,Preethi M,Putting Thoughts on Paper,null,30,4,TQH
+29-Sep-22,Sep,Thursday,785,Lakshan,S,Lakshan S,Dance on Halamithi Habibo,null,25,5,ABC
+29-Sep-22,Sep,Thursday,791,Navya,Sree,Navya Sree,Ukulele - Part 1,null,65,6,VVCE
+29-Sep-22,Sep,Thursday,791,Navya,Sree,Navya Sree,Ukulele - Part 1,null,10,6,VVCE
+29-Sep-22,Sep,Thursday,797,Nithisha,C,Nithisha C,How to create a story in scratch?,null,25,7,TQH
+29-Sep-22,Sep,Thursday,797,Nithisha,C,Nithisha C,How to create a story in scratch?,null,25,7,TQH
+29-Sep-22,Sep,Thursday,803,Rashmi ,R,Rashmi  R,Let Me Describe,null,70,8,ABC
+30-Sep-22,Sep,Friday,809,Anjali ,K,Anjali  K,Florals with Watercolours - Part 1,null,25,9,VVCE
+30-Sep-22,Sep,Friday,815,Yasheshwini,MK,Yasheshwini MK,Greetings and Wishes,null,95,3,TQH
+30-Sep-22,Sep,Friday,821,Anaga,M,Anaga M,Putting Thoughts on Paper,null,25,4,ABC
+30-Sep-22,Sep,Friday,821,Anaga,M,Anaga M,Putting Thoughts on Paper,null,40,4,ABC
+30-Sep-22,Sep,Friday,827,Durgesh,MR,Durgesh MR,Tips and Tricks- Addition and Subtraction,null,110,5,VVCE
+30-Sep-22,Sep,Friday,833,Jayanthi,R,Jayanthi R,Watercolours - Let's get started,null,110,6,TQH
+30-Sep-22,Sep,Friday,833,Jayanthi,R,Jayanthi R,Watercolours - Let's get started,null,415,6,TQH
+30-Sep-22,Sep,Friday,839,Bhuvan,MS,Bhuvan MS,Air Current,null,370,7,ABC
+30-Sep-22,Sep,Friday,845,Jyothi,S,Jyothi S,Watercolours - Let's get started,null,25,8,VVCE
+01-Oct-22,Oct,Saturday,845,Jyothi,S,Jyothi S,Watercolours - Let's get started,null,25,8,VVCE
+01-Oct-22,Oct,Saturday,851,Lavanya,K,Lavanya K,How to create a story in scratch?,null,70,9,TQH
+01-Oct-22,Oct,Saturday,851,Lavanya,K,Lavanya K,How to create a story in scratch?,null,25,9,TQH
+01-Oct-22,Oct,Saturday,857,Keerthi,K,Keerthi K,Handmade Birthday Cards,null,80,3,ABC
+01-Oct-22,Oct,Saturday,857,Keerthi,K,Keerthi K,Handmade Birthday Cards,null,175,3,ABC
+01-Oct-22,Oct,Saturday,857,Keerthi,K,Keerthi K,Basics of Stippling Art,null,465,3,ABC
+02-Oct-22,Oct,Sunday,857,Keerthi,K,Keerthi K,Magic of Blending With Cotton Buds and Tissue Papers,null,5,3,ABC
+02-Oct-22,Oct,Sunday,857,Keerthi,K,Keerthi K,Magic of Blending With Paper Stumps and Fingers,null,25,3,ABC
+02-Oct-22,Oct,Sunday,857,Keerthi,K,Keerthi K,Handmade Birthday Cards,null,200,3,ABC
+02-Oct-22,Oct,Sunday,863,Yashika,SM,Yashika SM,Money Management,null,490,4,VVCE
+02-Oct-22,Oct,Sunday,869,Ramya,S,Ramya S,Ukulele - Part 4,null,35,5,TQH
+03-Oct-22,Oct,Monday,875,Prashanth,MS,Prashanth MS,Make a Maze,null,25,6,ABC
+03-Oct-22,Oct,Monday,203,Praveen,M,Praveen M,Florals with Watercolours - Part 1,null,150,6,TQH
+03-Oct-22,Oct,Monday,881,Sharan,T,Sharan T,Wind Vane,null,95,7,VVCE
+03-Oct-22,Oct,Monday,881,Sharan,T,Sharan T,Wind Vane,null,15,7,VVCE
+03-Oct-22,Oct,Monday,881,Sharan,T,Sharan T,Wind Vane,null,25,7,VVCE
+03-Oct-22,Oct,Monday,869,Ramya,S,Ramya S,Ukulele - Part 1,null,65,5,TQH
+03-Oct-22,Oct,Monday,869,Ramya,S,Ramya S,Ukulele - Part 3,null,65,5,TQH
+03-Oct-22,Oct,Monday,881,Sharan,T,Sharan T,Wind Vane,null,25,7,VVCE
+03-Oct-22,Oct,Monday,299,Abhinav,SM,Abhinav SM,Let Me Describe,null,10,8,ABC
+03-Oct-22,Oct,Monday,893,Thanish,D,Thanish D,Watercolours - Let's get started,null,90,9,ABC
+03-Oct-22,Oct,Monday,299,Abhinav,SM,Abhinav SM,Greetings and Wishes,null,5,8,ABC
+03-Oct-22,Oct,Monday,299,Abhinav,SM,Abhinav SM,"Colour, colour, what colour?",null,25,8,ABC
+04-Oct-22,Oct,Tuesday,299,Abhinav,SM,Abhinav SM,Greetings and Wishes,null,85,8,ABC
+04-Oct-22,Oct,Tuesday,899,Suma,M,Suma M,Dance Basics,null,30,3,VVCE
+04-Oct-22,Oct,Tuesday,299,Abhinav,SM,Abhinav SM,Lightsaber,null,105,8,ABC
+04-Oct-22,Oct,Tuesday,899,Suma,M,Suma M,Dance Basics,null,170,3,VVCE
+04-Oct-22,Oct,Tuesday,899,Suma,M,Suma M,Dance Basics,null,25,3,VVCE
+04-Oct-22,Oct,Tuesday,899,Suma,M,Suma M,Warm Up and Cool Down,null,25,3,VVCE
+05-Oct-22,Oct,Wednesday,899,Suma,M,Suma M,Warm Up and Cool Down,null,25,3,VVCE
+05-Oct-22,Oct,Wednesday,899,Suma,M,Suma M,Dance Basics,null,65,3,VVCE
+05-Oct-22,Oct,Wednesday,869,Ramya,S,Ramya S,Ukulele - Part 3,null,65,5,TQH
+05-Oct-22,Oct,Wednesday,899,Suma,M,Suma M,Dance Basics,null,25,3,VVCE
+05-Oct-22,Oct,Wednesday,869,Ramya,S,Ramya S,Ukulele - Part 3,null,90,5,TQH
+05-Oct-22,Oct,Wednesday,905,Karthik,V,Karthik V,Lightsaber,null,120,4,TQH
+05-Oct-22,Oct,Wednesday,869,Ramya,S,Ramya S,Ukulele - Part 2,null,15,5,TQH
+05-Oct-22,Oct,Wednesday,869,Ramya,S,Ramya S,Ukulele - Part 5,null,55,5,TQH
+05-Oct-22,Oct,Wednesday,869,Ramya,S,Ramya S,Ukulele - Part 1,null,25,5,TQH
+05-Oct-22,Oct,Wednesday,911,Vivek,M,Vivek M,Tips and Tricks- Multiplication and Division,null,35,5,ABC
+05-Oct-22,Oct,Wednesday,911,Vivek,M,Vivek M,Tips and Tricks- Multiplication and Division,null,170,5,ABC
+05-Oct-22,Oct,Wednesday,917,Keerthan,YM,Keerthan YM,Bird Feeder,null,20,6,VVCE
+05-Oct-22,Oct,Wednesday,923,Brijesh,Y,Brijesh Y,Make a Maze,null,160,7,TQH
+05-Oct-22,Oct,Wednesday,929,Kruthi,D,Kruthi D,Tips and Tricks- Multiplication and Division,null,25,8,ABC
+05-Oct-22,Oct,Wednesday,935,Yathin,SD,Yathin SD,Science Behind the spin,null,80,9,VVCE
+05-Oct-22,Oct,Wednesday,935,Yathin,SD,Yathin SD,Science Behind the spin,null,185,9,VVCE
+05-Oct-22,Oct,Wednesday,941,Puneeth,SM,Puneeth SM,Let Me Describe,null,50,3,TQH
+05-Oct-22,Oct,Wednesday,941,Puneeth,SM,Puneeth SM,Let Me Describe,null,55,3,TQH
+05-Oct-22,Oct,Wednesday,905,Karthik,V,Karthik V,Lightsaber,null,45,4,TQH
+06-Oct-22,Oct,Thursday,947,Kaushik,M,Kaushik M,Warm Up and Cool Down,null,70,4,ABC
+06-Oct-22,Oct,Thursday,953,Smitha ,M,Smitha  M,Florals with Watercolours - Part 1,null,35,5,VVCE
+06-Oct-22,Oct,Thursday,953,Smitha ,M,Smitha  M,Florals with Watercolours - Part 1,null,25,5,VVCE
+06-Oct-22,Oct,Thursday,953,Smitha ,M,Smitha  M,Florals with Watercolours - Part 1,null,20,5,VVCE
+06-Oct-22,Oct,Thursday,959,Mani,sai,Mani sai,DIY- Marble run,null,100,6,TQH
+06-Oct-22,Oct,Thursday,965,Jaya,suryanath,Jaya suryanath,Patterns everywhere!,null,25,7,ABC
+06-Oct-22,Oct,Thursday,869,Ramya,S,Ramya S,Ukulele - Part 1,null,160,5,TQH
+06-Oct-22,Oct,Thursday,911,Vivek,M,Vivek M,Tips and Tricks- Multiplication and Division,null,155,5,ABC
+06-Oct-22,Oct,Thursday,911,Vivek,M,Vivek M,Tips and Tricks- Multiplication and Division,null,45,5,ABC
+06-Oct-22,Oct,Thursday,971,Harish,D,Harish D,How to create a story in scratch?,null,25,8,VVCE
+06-Oct-22,Oct,Thursday,977,Dileep,MK,Dileep MK,Money Management,null,85,9,TQH
+06-Oct-22,Oct,Thursday,983,Vijay,K,Vijay K,Watercolours - Let's get started,null,1975,3,ABC
+06-Oct-22,Oct,Thursday,983,Vijay,K,Vijay K,Watercolours - Let's get started,null,25,3,ABC
+06-Oct-22,Oct,Thursday,137,Charan,Teja,Charan Teja,Dance on Ghungroo,null,90,9,ABC
+06-Oct-22,Oct,Thursday,137,Charan,Teja,Charan Teja,Warm Up and Cool Down,null,490,9,ABC
+06-Oct-22,Oct,Thursday,137,Charan,Teja,Charan Teja,Dance Basics,null,40,9,ABC
+06-Oct-22,Oct,Thursday,137,Charan,Teja,Charan Teja,Dance Basics,null,20,9,ABC
+06-Oct-22,Oct,Thursday,995,Poorvika,SM,Poorvika SM,Handmade Birthday Cards,null,25,5,TQH
+06-Oct-22,Oct,Thursday,1001,Rithika,S,Rithika S,Watercolours - Let's get started,null,55,6,ABC
+06-Oct-22,Oct,Thursday,1001,Rithika,S,Rithika S,"Colour, colour, what colour?",null,25,6,ABC
+06-Oct-22,Oct,Thursday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,25,7,VVCE
+06-Oct-22,Oct,Thursday,1013,Vishnu,priyan,Vishnu priyan,Tips and Tricks- Multiplication and Division,null,45,8,TQH
+06-Oct-22,Oct,Thursday,1019,Anisha,D,Anisha D,Money Management,null,95,9,ABC
+07-Oct-22,Oct,Friday,1025,MONISA,K,MONISA K,Lightsaber,null,25,3,VVCE
+07-Oct-22,Oct,Friday,1031,Varshitha,KS,Varshitha KS,Handmade Birthday Cards,null,25,4,TQH
+07-Oct-22,Oct,Friday,1037,Stalin,,Stalin ,Spatial Sense,null,85,5,ABC
+07-Oct-22,Oct,Friday,1001,Rithika,S,Rithika S,Watercolours - Let's get started,null,0,6,ABC
+07-Oct-22,Oct,Friday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,20,7,VVCE
+07-Oct-22,Oct,Friday,1043,Harsha,MS,Harsha MS,Greetings and Wishes,null,15,6,VVCE
+07-Oct-22,Oct,Friday,125,Uday,Kumar,Uday Kumar,Bird Feeder,null,25,7,VVCE
+07-Oct-22,Oct,Friday,143,Pavan,P,Pavan P,Build a Pyramid Projector- Hologram,null,145,3,VVCE
+07-Oct-22,Oct,Friday,149,Sowmya,P,Sowmya P,Wind Vane,null,145,4,TQH
+07-Oct-22,Oct,Friday,509,Rishi,Prasad,Rishi Prasad,Tips and Tricks- Addition and Subtraction,null,160,8,TQH
+07-Oct-22,Oct,Friday,509,Rishi,Prasad,Rishi Prasad,Tips and Tricks- Addition and Subtraction,null,375,8,TQH
+08-Oct-22,Oct,Saturday,509,Rishi,Prasad,Rishi Prasad,Tips and Tricks- Addition and Subtraction,null,405,8,TQH
+08-Oct-22,Oct,Saturday,671,Kavin,S,Kavin S,Basic Meditative Asanas,null,125,7,TQH
+08-Oct-22,Oct,Saturday,185,Diganth,Raj,Diganth Raj,Hero Pose: Veerasana,null,245,3,TQH
+08-Oct-22,Oct,Saturday,185,Diganth,Raj,Diganth Raj,Hero Pose: Veerasana,null,10,3,TQH
+08-Oct-22,Oct,Saturday,185,Diganth,Raj,Diganth Raj,Hero Pose: Veerasana,null,175,3,TQH
+08-Oct-22,Oct,Saturday,185,Diganth,Raj,Diganth Raj,Hero Pose: Veerasana,null,20,3,TQH
+08-Oct-22,Oct,Saturday,227,Abhi,Ram,Abhi Ram,Digital Out - LEDs,null,175,3,ABC
+08-Oct-22,Oct,Saturday,227,Abhi,Ram,Abhi Ram,Digital Out - LEDs,null,370,3,ABC
+08-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Watercolours - Let's get started,null,0,6,ABC
+08-Oct-22,Oct,Saturday,227,Abhi,Ram,Abhi Ram,Digital Out - LEDs,null,610,3,ABC
+09-Oct-22,Oct,Sunday,599,Sanju,S.B,Sanju S.B,Frogs - The Outstanding Amphibians,null,150,9,TQH
+09-Oct-22,Oct,Sunday,227,Abhi,Ram,Abhi Ram,Digital Out - LEDs,null,35,3,ABC
+09-Oct-22,Oct,Sunday,677,Prerana,B,Prerana B,7 Segment LED display,null,135,8,ABC
+09-Oct-22,Oct,Sunday,677,Prerana,B,Prerana B,7 Segment LED display,null,755,8,ABC
+09-Oct-22,Oct,Sunday,677,Prerana,B,Prerana B,7 Segment LED display,null,745,8,ABC
+09-Oct-22,Oct,Sunday,677,Prerana,B,Prerana B,7 Segment LED display,null,180,8,ABC
+09-Oct-22,Oct,Sunday,677,Prerana,B,Prerana B,7 Segment LED display,null,30,8,ABC
+09-Oct-22,Oct,Sunday,899,Suma,M,Suma M,Hero Pose: Veerasana,null,0,3,VVCE
+09-Oct-22,Oct,Sunday,1013,Vishnu,priyan,Vishnu priyan,Maze Game,null,5,8,TQH
+09-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 4,null,315,7,VVCE
+09-Oct-22,Oct,Sunday,377,Sagar,M,Sagar M,Flappy Santa,null,90,7,VVCE
+09-Oct-22,Oct,Sunday,377,Sagar,M,Sagar M,The Art of Conveying,null,30,7,VVCE
+09-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,45,7,VVCE
+09-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 4,null,295,7,VVCE
+09-Oct-22,Oct,Sunday,695,Spoorthi,K,Spoorthi K,Fun with the C Pentatonic Scale,null,310,4,ABC
+09-Oct-22,Oct,Sunday,401,Chethan,P,Chethan P,Digital Out - LEDs,null,285,4,TQH
+11-Oct-22,Oct,Tuesday,401,Chethan,P,Chethan P,Digital Out - LEDs,null,595,4,TQH
+11-Oct-22,Oct,Tuesday,677,Prerana,B,Prerana B,7 Segment LED display,null,0,8,ABC
+11-Oct-22,Oct,Tuesday,677,Prerana,B,Prerana B,7 Segment LED display,null,770,8,ABC
+11-Oct-22,Oct,Tuesday,677,Prerana,B,Prerana B,7 Segment LED display,null,5,8,ABC
+11-Oct-22,Oct,Tuesday,893,Thanish,D,Thanish D,Milk is Yum -2,null,260,9,ABC
+11-Oct-22,Oct,Tuesday,377,Sagar,M,Sagar M,Watercolour Techniques,null,45,7,VVCE
+11-Oct-22,Oct,Tuesday,377,Sagar,M,Sagar M,Watercolour Techniques,null,150,7,VVCE
+11-Oct-22,Oct,Tuesday,923,Brijesh,Y,Brijesh Y,Face detection using H.O.G!,null,380,7,TQH
+12-Oct-22,Oct,Wednesday,923,Brijesh,Y,Brijesh Y,Face detection using H.O.G!,null,645,7,TQH
+12-Oct-22,Oct,Wednesday,923,Brijesh,Y,Brijesh Y,Face detection using H.O.G!,null,0,7,TQH
+12-Oct-22,Oct,Wednesday,881,Sharan,T,Sharan T,Warm Up and Cool Down,null,0,7,VVCE
+12-Oct-22,Oct,Wednesday,881,Sharan,T,Sharan T,Warm Up and Cool Down,null,490,7,VVCE
+12-Oct-22,Oct,Wednesday,881,Sharan,T,Sharan T,Warm Up and Cool Down,null,0,7,VVCE
+12-Oct-22,Oct,Wednesday,941,Puneeth,SM,Puneeth SM,Insects with Paper Plates,null,10,3,TQH
+13-Oct-22,Oct,Thursday,1019,Anisha,D,Anisha D,Watercolour Techniques,null,5,9,ABC
+13-Oct-22,Oct,Thursday,1019,Anisha,D,Anisha D,Watercolour Techniques,null,0,9,ABC
+13-Oct-22,Oct,Thursday,1019,Anisha,D,Anisha D,Watercolour Techniques,null,250,9,ABC
+13-Oct-22,Oct,Thursday,947,Kaushik,M,Kaushik M,Tips and Tricks- Addition and Subtraction,null,260,4,ABC
+14-Oct-22,Oct,Friday,947,Kaushik,M,Kaushik M,Tips and Tricks- Addition and Subtraction,null,0,4,ABC
+14-Oct-22,Oct,Friday,935,Yathin,SD,Yathin SD,Handmade Birthday Cards,null,0,9,VVCE
+14-Oct-22,Oct,Friday,809,Anjali ,K,Anjali  K,Reactions Around Me- Series 1,null,160,9,VVCE
+14-Oct-22,Oct,Friday,1019,Anisha,D,Anisha D,Watercolours - Let's get started,null,165,9,ABC
+14-Oct-22,Oct,Friday,1019,Anisha,D,Anisha D,Watercolours - Let's get started,null,5,9,ABC
+14-Oct-22,Oct,Friday,833,Jayanthi,R,Jayanthi R,Basic Standing Asana: Tadasana,null,260,6,TQH
+14-Oct-22,Oct,Friday,851,Lavanya,K,Lavanya K,Riddle App,null,0,9,TQH
+15-Oct-22,Oct,Saturday,851,Lavanya,K,Lavanya K,Riddle App,null,0,9,TQH
+15-Oct-22,Oct,Saturday,1019,Anisha,D,Anisha D,Watercolours - Let's get started,null,135,9,ABC
+15-Oct-22,Oct,Saturday,821,Anaga,M,Anaga M,Dance on Halamithi Habibo,null,15,4,ABC
+15-Oct-22,Oct,Saturday,1019,Anisha,D,Anisha D,Watercolours - Let's get started,null,160,9,ABC
+15-Oct-22,Oct,Saturday,1019,Anisha,D,Anisha D,Watercolours - Let's get started,null,0,9,ABC
+15-Oct-22,Oct,Saturday,533,Kavya,sree,Kavya sree,Math aptitude - 1,null,0,5,ABC
+15-Oct-22,Oct,Saturday,533,Kavya,sree,Kavya sree,Math aptitude - 1,null,0,5,ABC
+15-Oct-22,Oct,Saturday,947,Kaushik,M,Kaushik M,Tips and Tricks (Profit and Loss),null,0,4,ABC
+15-Oct-22,Oct,Saturday,947,Kaushik,M,Kaushik M,Tips and Tricks (Profit and Loss),null,0,4,ABC
+15-Oct-22,Oct,Saturday,287,Mithun,Gowda,Mithun Gowda,About Time,null,0,6,VVCE
+15-Oct-22,Oct,Saturday,299,Abhinav,SM,Abhinav SM,Code.org walkthrough and sprite objects,null,25,8,ABC
+15-Oct-22,Oct,Saturday,299,Abhinav,SM,Abhinav SM,Code.org walkthrough and sprite objects,null,15,8,ABC
+15-Oct-22,Oct,Saturday,299,Abhinav,SM,Abhinav SM,Code.org walkthrough and sprite objects,null,20,8,ABC
+15-Oct-22,Oct,Saturday,299,Abhinav,SM,Abhinav SM,Code.org walkthrough and sprite objects,null,20,8,ABC
+15-Oct-22,Oct,Saturday,299,Abhinav,SM,Abhinav SM,Code.org walkthrough and sprite objects,null,10,8,ABC
+15-Oct-22,Oct,Saturday,137,Charan,Teja,Charan Teja,The Mesmerizing Era of Mammals,null,50,9,ABC
+15-Oct-22,Oct,Saturday,959,Mani,sai,Mani sai,The Pinwheel,null,15,6,TQH
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,10,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,155,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,10,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,125,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,105,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,60,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,50,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,30,6,ABC
+15-Oct-22,Oct,Saturday,1001,Rithika,S,Rithika S,Fastrack Memory,null,10,6,ABC
+15-Oct-22,Oct,Saturday,245,ABINAYA,R,ABINAYA R,Juxtapose,null,5,6,ABC
+15-Oct-22,Oct,Saturday,245,ABINAYA,R,ABINAYA R,Juxtapose,null,0,6,ABC
+15-Oct-22,Oct,Saturday,287,Mithun,Gowda,Mithun Gowda,About Time,null,15,6,VVCE
+15-Oct-22,Oct,Saturday,287,Mithun,Gowda,Mithun Gowda,About Time,null,20,6,VVCE
+15-Oct-22,Oct,Saturday,869,Ramya,S,Ramya S,Contours,null,5,5,TQH
+15-Oct-22,Oct,Saturday,869,Ramya,S,Ramya S,Contours,null,35,5,TQH
+15-Oct-22,Oct,Saturday,905,Karthik,V,Karthik V,Inside Story (Dealing with data),null,0,4,TQH
+15-Oct-22,Oct,Saturday,905,Karthik,V,Karthik V,Inside Story (Dealing with data),null,0,4,TQH
+15-Oct-22,Oct,Saturday,905,Karthik,V,Karthik V,Inside Story (Dealing with data),null,25,4,TQH
+15-Oct-22,Oct,Saturday,905,Karthik,V,Karthik V,Measure of all things,null,20,4,TQH
+15-Oct-22,Oct,Saturday,905,Karthik,V,Karthik V,Measure of all things,null,35,4,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,0,9,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,0,9,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,5,9,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,0,9,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,0,9,TQH
+16-Oct-22,Oct,Sunday,725,Harmain,Fathima M,Harmain Fathima M,Shashankasana: The Rabbit Pose,null,0,9,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,10,3,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,5,3,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,5,3,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,5,3,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,0,3,TQH
+16-Oct-22,Oct,Sunday,815,Yasheshwini,MK,Yasheshwini MK,Floral Greeting Cards,null,0,3,TQH
+16-Oct-22,Oct,Sunday,875,Prashanth,MS,Prashanth MS,Vajrasana: The Thunderbolt Pose,null,5,6,ABC
+16-Oct-22,Oct,Sunday,875,Prashanth,MS,Prashanth MS,Vajrasana: The Thunderbolt Pose,null,190,6,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,0,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,5,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,5,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,5,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,5,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,5,3,ABC
+16-Oct-22,Oct,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,35,3,ABC
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,5,5,TQH
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,10,5,TQH
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,10,5,TQH
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,10,5,TQH
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,10,5,TQH
+16-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Pot Painting with Warli Art,null,15,5,TQH
+16-Oct-22,Oct,Sunday,965,Jaya,suryanath,Jaya suryanath,Flaunt It Figuratively,null,235,7,ABC
+16-Oct-22,Oct,Sunday,965,Jaya,suryanath,Jaya suryanath,Flaunt It Figuratively,null,0,7,ABC
+16-Oct-22,Oct,Sunday,761,Likhitha,s,Likhitha s,Warm Up and Cool Down,null,20,8,TQH
+16-Oct-22,Oct,Sunday,839,Bhuvan,MS,Bhuvan MS,Pot Painting with Warli Art,null,120,7,ABC
+16-Oct-22,Oct,Sunday,659,Pooja,S,Pooja S,Introduction to Coding,null,125,5,ABC
+16-Oct-22,Oct,Sunday,701,Krithi,MD,Krithi MD,Scratch programming for beginners,null,25,5,VVCE
+16-Oct-22,Oct,Sunday,233,Nithya,M,Nithya M,Warm Up and Cool Down,null,120,4,VVCE
+16-Oct-22,Oct,Sunday,983,Vijay,K,Vijay K,Tips and Tricks- Multiplication and Division,null,15,3,ABC
+16-Oct-22,Oct,Sunday,983,Vijay,K,Vijay K,Tips and Tricks- Multiplication and Division,null,130,3,ABC
+16-Oct-22,Oct,Sunday,983,Vijay,K,Vijay K,Tips and Tricks- Multiplication and Division,null,15,3,ABC
+16-Oct-22,Oct,Sunday,983,Vijay,K,Vijay K,Tips and Tricks- Addition and Subtraction,null,0,3,ABC
+16-Oct-22,Oct,Sunday,983,Vijay,K,Vijay K,Tips and Tricks- Addition and Subtraction,null,30,3,ABC
+16-Oct-22,Oct,Sunday,287,Mithun,Gowda,Mithun Gowda,About Time,null,0,6,VVCE
+16-Oct-22,Oct,Sunday,287,Mithun,Gowda,Mithun Gowda,About Time,null,155,6,VVCE
+16-Oct-22,Oct,Sunday,839,Bhuvan,MS,Bhuvan MS,Insects with Paper Plates,null,10,7,ABC
+16-Oct-22,Oct,Sunday,839,Bhuvan,MS,Bhuvan MS,Insects with Paper Plates,null,295,7,ABC
+16-Oct-22,Oct,Sunday,131,Ranjith,C,Ranjith C,Pot Painting with Warli Art,null,35,8,TQH
+16-Oct-22,Oct,Sunday,131,Ranjith,C,Ranjith C,Pot Painting with Warli Art,null,40,8,TQH
+16-Oct-22,Oct,Sunday,131,Ranjith,C,Ranjith C,Pot Painting with Warli Art,null,140,8,TQH
+16-Oct-22,Oct,Sunday,131,Ranjith,C,Ranjith C,Pot Painting with Warli Art,null,175,8,TQH
+16-Oct-22,Oct,Sunday,131,Ranjith,C,Ranjith C,Pot Painting with Warli Art,null,10,8,TQH
+16-Oct-22,Oct,Sunday,467,Sanjay,M,Sanjay M,Floral Greeting Cards,null,5,8,VVCE
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Florals with Watercolours - Part 1,null,120,5,ABC
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Sense of Clothing and its Care,null,0,5,ABC
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Pot Painting with Warli Art,null,0,5,ABC
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Handmade Greeting Cards,null,25,5,ABC
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Dance on Halamithi Habibo,null,145,5,ABC
+16-Oct-22,Oct,Sunday,407,Tejas,M,Tejas M,Climbing Spider,null,1480,5,ABC
+17-Oct-22,Oct,Monday,683,Sujith,S,Sujith S,Phenakistiscope,null,640,9,VVCE
+17-Oct-22,Oct,Monday,683,Sujith,S,Sujith S,Phenakistiscope,null,375,9,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Addition and Subtraction,null,160,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Addition and Subtraction,null,375,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Addition and Subtraction,null,405,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Multiplication and Division,null,280,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Multiplication and Division,null,50,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Tips and Tricks- Multiplication and Division,null,40,8,VVCE
+17-Oct-22,Oct,Monday,719,Rashmi,M,Rashmi M,Vedic math,null,0,8,VVCE
+17-Oct-22,Oct,Monday,323,Rohit,M,Rohit M,Juxtapose,null,10,5,VVCE
+17-Oct-22,Oct,Monday,323,Rohit,M,Rohit M,Juxtapose,null,40,5,VVCE
+17-Oct-22,Oct,Monday,851,Lavanya,K,Lavanya K,Pot Painting with Warli Art,null,35,9,TQH
+17-Oct-22,Oct,Monday,851,Lavanya,K,Lavanya K,Pot Painting with Warli Art,null,0,9,TQH
+17-Oct-22,Oct,Monday,851,Lavanya,K,Lavanya K,Pot Painting with Warli Art,null,75,9,TQH
+17-Oct-22,Oct,Monday,1001,Rithika,S,Rithika S,Vajrasana: The Thunderbolt Pose,null,125,6,ABC
+17-Oct-22,Oct,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,115,7,VVCE
+17-Oct-22,Oct,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,5,7,VVCE
+17-Oct-22,Oct,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,10,7,VVCE
+17-Oct-22,Oct,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,0,7,VVCE
+17-Oct-22,Oct,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,520,7,VVCE
+17-Oct-22,Oct,Monday,1043,Harsha,MS,Harsha MS,The Amazing World of Aves,null,325,6,VVCE
+17-Oct-22,Oct,Monday,1043,Harsha,MS,Harsha MS,The Amazing World of Aves,null,30,6,VVCE
+17-Oct-22,Oct,Monday,473,Bhanu,P,Bhanu P,Make a Maze,null,175,9,TQH
+17-Oct-22,Oct,Monday,473,Bhanu,P,Bhanu P,Make a Maze,null,500,9,TQH
+17-Oct-22,Oct,Monday,305,Praful,N,Praful N,Dance on Halamithi Habibo,null,5,9,VVCE
+17-Oct-22,Oct,Monday,311,Viraj,K,Viraj K,Make a Maze,null,20,3,TQH
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,25,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,730,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,600,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,500,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,360,4,ABC
+17-Oct-22,Oct,Monday,323,Rohit,M,Rohit M,Floral Greeting Cards,null,20,5,VVCE
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,885,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,1130,4,ABC
+17-Oct-22,Oct,Monday,317,Gagan,V,Gagan V,Money Management,null,150,4,ABC
+17-Oct-22,Oct,Monday,509,Rishi,Prasad,Rishi Prasad,Vajrasana: The Thunderbolt Pose,null,105,8,TQH
+17-Oct-22,Oct,Monday,515,Hima,Bharathi,Hima Bharathi,Pot Painting with Warli Art,null,35,9,ABC
+17-Oct-22,Oct,Monday,515,Hima,Bharathi,Hima Bharathi,Pot Painting with Warli Art,null,160,9,ABC
+17-Oct-22,Oct,Monday,515,Hima,Bharathi,Hima Bharathi,Pot Painting with Warli Art,null,395,9,ABC
+17-Oct-22,Oct,Monday,515,Hima,Bharathi,Hima Bharathi,Pot Painting with Warli Art,null,10,9,ABC
+17-Oct-22,Oct,Monday,515,Hima,Bharathi,Hima Bharathi,Pot Painting with Warli Art,null,60,9,ABC
+17-Oct-22,Oct,Monday,911,Vivek,M,Vivek M,Floral Greeting Cards,null,30,5,ABC
+17-Oct-22,Oct,Monday,911,Vivek,M,Vivek M,Floral Greeting Cards,null,525,5,ABC
+18-Oct-22,Oct,Tuesday,911,Vivek,M,Vivek M,Floral Greeting Cards,null,60,5,ABC
+18-Oct-22,Oct,Tuesday,911,Vivek,M,Vivek M,Pot Painting with Warli Art,null,20,5,ABC
+18-Oct-22,Oct,Tuesday,911,Vivek,M,Vivek M,Pot Painting with Warli Art,null,5,5,ABC
+18-Oct-22,Oct,Tuesday,965,Jaya,suryanath,Jaya suryanath,Pacman-Part1,null,85,7,ABC
+18-Oct-22,Oct,Tuesday,965,Jaya,suryanath,Jaya suryanath,Pacman-Part1,null,45,7,ABC
+18-Oct-22,Oct,Tuesday,1013,Vishnu,priyan,Vishnu priyan,Frogs - The Outstanding Amphibians,null,265,8,TQH
+18-Oct-22,Oct,Tuesday,557,Pruthvi,RH,Pruthvi RH,Vlog with Style,null,160,9,VVCE
+18-Oct-22,Oct,Tuesday,563,Tejaswini,T,Tejaswini T,Jovial Japanese Characters,null,20,3,TQH
+18-Oct-22,Oct,Tuesday,563,Tejaswini,T,Tejaswini T,Jovial Japanese Characters,null,40,3,TQH
+18-Oct-22,Oct,Tuesday,455,Rudhra,Swami,Rudhra Swami,Let Me Tell You a Story,null,170,6,TQH
+18-Oct-22,Oct,Tuesday,455,Rudhra,Swami,Rudhra Swami,Let Me Tell You a Story,null,10,6,TQH
+21-Oct-22,Oct,Friday,755,M Chirantan,Prabhu,M Chirantan Prabhu,Thaumatrope,null,125,7,VVCE
+21-Oct-22,Oct,Friday,761,Likhitha,s,Likhitha s,Fastrack Memory,null,210,8,TQH
+21-Oct-22,Oct,Friday,761,Likhitha,s,Likhitha s,Fastrack Memory,null,340,8,TQH
+21-Oct-22,Oct,Friday,761,Likhitha,s,Likhitha s,Fastrack Memory,null,320,8,TQH
+21-Oct-22,Oct,Friday,761,Likhitha,s,Likhitha s,Fastrack Memory,null,180,8,TQH
+21-Oct-22,Oct,Friday,761,Likhitha,s,Likhitha s,Fastrack Memory,null,60,8,TQH
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,85,3,ABC
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,105,3,ABC
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Shashankasana: The Rabbit Pose,null,135,3,ABC
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Shashankasana: The Rabbit Pose,null,240,3,ABC
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Shashankasana: The Rabbit Pose,null,290,3,ABC
+21-Oct-22,Oct,Friday,101,Mownesh,M,Mownesh M,Shashankasana: The Rabbit Pose,null,0,3,ABC
+24-Oct-22,Oct,Monday,101,Mownesh,M,Mownesh M,Shashankasana: The Rabbit Pose,null,45,3,ABC
+24-Oct-22,Oct,Monday,821,Anaga,M,Anaga M,The Amazing World of Aves,null,70,4,ABC
+24-Oct-22,Oct,Monday,827,Durgesh,MR,Durgesh MR,Maze Game,null,45,5,VVCE
+24-Oct-22,Oct,Monday,833,Jayanthi,R,Jayanthi R,Floral Greeting Cards,null,15,6,TQH
+24-Oct-22,Oct,Monday,833,Jayanthi,R,Jayanthi R,Floral Greeting Cards,null,30,6,TQH
+24-Oct-22,Oct,Monday,653,Suriya,U.I,Suriya U.I,Eating with Elegance,null,45,4,TQH
+25-Oct-22,Oct,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 5,null,50,7,VVCE
+25-Oct-22,Oct,Tuesday,503,Deepak,M,Deepak M,Sarale Varase in Maya Malava Gowla - Part 1,null,20,7,VVCE
+25-Oct-22,Oct,Tuesday,509,Rishi,Prasad,Rishi Prasad,Watercolours - Let's get started,null,395,8,TQH
+25-Oct-22,Oct,Tuesday,515,Hima,Bharathi,Hima Bharathi,Patterns everywhere!,null,20,9,ABC
+25-Oct-22,Oct,Tuesday,515,Hima,Bharathi,Hima Bharathi,Patterns everywhere!,null,0,9,ABC
+25-Oct-22,Oct,Tuesday,635,Chirag,Raj,Chirag Raj,Vedic math,null,0,8,TQH
+27-Oct-22,Oct,Thursday,635,Chirag,Raj,Chirag Raj,Vedic math,null,175,8,TQH
+27-Oct-22,Oct,Thursday,581,Sohan,D,Sohan D,Warm Up and Cool Down,null,40,6,TQH
+27-Oct-22,Oct,Thursday,227,Abhi,Ram,Abhi Ram,Symmetry and Patterns,null,490,3,ABC
+27-Oct-22,Oct,Thursday,233,Nithya,M,Nithya M,Global finance - GDP,null,35,4,VVCE
+27-Oct-22,Oct,Thursday,233,Nithya,M,Nithya M,Global finance - GDP,null,295,4,VVCE
+27-Oct-22,Oct,Thursday,671,Kavin,S,Kavin S,The Mesmerizing Era of Mammals,null,25,7,TQH
+27-Oct-22,Oct,Thursday,1007,Samrithi,K,Samrithi K,Ukulele - Part 3,null,5,7,VVCE
+27-Oct-22,Oct,Thursday,959,Mani,sai,Mani sai,The Marvellous Minions,null,0,6,TQH
+27-Oct-22,Oct,Thursday,959,Mani,sai,Mani sai,The Marvellous Minions,null,215,6,TQH
+27-Oct-22,Oct,Thursday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,25,7,VVCE
+27-Oct-22,Oct,Thursday,647,Pranathi,KS,Pranathi KS,Florals with Watercolours - Part 1,null,120,3,VVCE
+27-Oct-22,Oct,Thursday,647,Pranathi,KS,Pranathi KS,Florals with Watercolours - Part 1,null,0,3,VVCE
+27-Oct-22,Oct,Thursday,647,Pranathi,KS,Pranathi KS,Florals with Watercolours - Part 1,null,165,3,VVCE
+28-Oct-22,Oct,Friday,695,Spoorthi,K,Spoorthi K,Greetings and Wishes,null,125,4,ABC
+28-Oct-22,Oct,Friday,221,Siri,malleshwary,Siri malleshwary,Code.org walkthrough and sprite objects,null,150,9,TQH
+28-Oct-22,Oct,Friday,221,Siri,malleshwary,Siri malleshwary,Code.org walkthrough and sprite objects,null,505,9,TQH
+28-Oct-22,Oct,Friday,677,Prerana,B,Prerana B,Fun with the C Pentatonic Scale,null,0,8,ABC
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,115,9,VVCE
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,345,9,VVCE
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,315,9,VVCE
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,390,9,VVCE
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,35,9,VVCE
+28-Oct-22,Oct,Friday,683,Sujith,S,Sujith S,Percentage,null,45,9,VVCE
+28-Oct-22,Oct,Friday,155,Pradeep,K,Pradeep K,Know yourself,null,295,5,ABC
+28-Oct-22,Oct,Friday,161,Abhishek,V,Abhishek V,Tips and Tricks- Addition and Subtraction,null,175,6,VVCE
+28-Oct-22,Oct,Friday,167,Karan,B,Karan B,Know yourself,null,45,7,TQH
+29-Oct-22,Oct,Saturday,161,Abhishek,V,Abhishek V,Tips and Tricks- Addition and Subtraction,null,0,6,VVCE
+29-Oct-22,Oct,Saturday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,135,7,VVCE
+29-Oct-22,Oct,Saturday,503,Deepak,M,Deepak M,Sarale Varase in Maya Malava Gowla - Part 1,null,0,7,VVCE
+29-Oct-22,Oct,Saturday,839,Bhuvan,MS,Bhuvan MS,Air Current,null,10,7,ABC
+29-Oct-22,Oct,Saturday,839,Bhuvan,MS,Bhuvan MS,Frogs - The Outstanding Amphibians,null,0,7,ABC
+29-Oct-22,Oct,Saturday,839,Bhuvan,MS,Bhuvan MS,Explore the Unknown Territories,null,50,7,ABC
+29-Oct-22,Oct,Saturday,965,Jaya,suryanath,Jaya suryanath,Post-A-Mail,null,0,7,ABC
+30-Oct-22,Oct,Sunday,143,Pavan,P,Pavan P,Inside Story (Dealing with data),null,0,3,VVCE
+30-Oct-22,Oct,Sunday,569,CHIRADEEP.,R,CHIRADEEP. R,The Art of Blending Time with Action - Part I (Present Tense),null,120,4,ABC
+30-Oct-22,Oct,Sunday,959,Mani,sai,Mani sai,Greetings and Wishes,null,5,6,TQH
+30-Oct-22,Oct,Sunday,959,Mani,sai,Mani sai,Greetings and Wishes,null,0,6,TQH
+30-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 5,null,0,7,VVCE
+30-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 5,null,55,7,VVCE
+30-Oct-22,Oct,Sunday,161,Abhishek,V,Abhishek V,Tips and Tricks- Addition and Subtraction,null,0,6,VVCE
+30-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Warm Up and Cool Down,null,20,5,TQH
+30-Oct-22,Oct,Sunday,743,Pragathi,C Naik,Pragathi C Naik,Warm Up and Cool Down,null,0,5,TQH
+30-Oct-22,Oct,Sunday,401,Chethan,P,Chethan P,Inside Story (Dealing with data),null,45,4,TQH
+30-Oct-22,Oct,Sunday,857,Keerthi,K,Keerthi K,Measure of all things,null,0,3,ABC
+30-Oct-22,Oct,Sunday,1007,Samrithi,K,Samrithi K,Ukulele - Part 2,null,0,7,VVCE
+30-Oct-22,Oct,Sunday,659,Pooja,Sree,Pooja Sree,Awesome Animals with Paper Plates,null,20,5,ABC
+30-Oct-22,Oct,Sunday,401,Chethan,P,Chethan P,"Colour, colour, what colour?",null,40,4,TQH
+31-Oct-22,Oct,Monday,671,Kavin,S,Kavin S,Money Management,null,0,7,TQH
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Calculator App,null,40,8,ABC
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Digital Out - Buzzer,null,5,8,ABC
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Digital Out - Buzzer,null,5,8,ABC
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Digital Out - Buzzer,null,5,8,ABC
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Digital Out - Buzzer,null,10,8,ABC
+31-Oct-22,Oct,Monday,677,Prerana,B,Prerana B,Digital Out - Buzzer,null,10,8,ABC
+31-Oct-22,Oct,Monday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,15,4,TQH
+01-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,10,4,TQH
+01-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,10,4,TQH
+01-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,10,4,TQH
+01-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,20,4,TQH
+01-Nov-22,Nov,Tuesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,10,6,VVCE
+01-Nov-22,Nov,Tuesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,10,6,VVCE
+02-Nov-22,Nov,Wednesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,5,6,VVCE
+02-Nov-22,Nov,Wednesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,10,6,VVCE
+02-Nov-22,Nov,Wednesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,15,6,VVCE
+02-Nov-22,Nov,Wednesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,20,8,ABC
+02-Nov-22,Nov,Wednesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,130,8,ABC
+02-Nov-22,Nov,Wednesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,50,8,ABC
+02-Nov-22,Nov,Wednesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,55,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,20,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,30,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,100,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,125,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,20,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,0,8,ABC
+03-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Percentage,null,100,8,ABC
+04-Nov-22,Nov,Friday,677,Prerana,B,Prerana B,Percentage,null,300,8,ABC
+04-Nov-22,Nov,Friday,677,Prerana,B,Prerana B,Basic Shading,null,15,8,ABC
+04-Nov-22,Nov,Friday,677,Prerana,B,Prerana B,Percentage,null,145,8,ABC
+04-Nov-22,Nov,Friday,677,Prerana,B,Prerana B,Percentage,null,285,8,ABC
+04-Nov-22,Nov,Friday,677,Prerana,B,Prerana B,Percentage,null,170,8,ABC
+06-Nov-22,Nov,Sunday,677,Prerana,B,Prerana B,Percentage,null,145,8,ABC
+06-Nov-22,Nov,Sunday,677,Prerana,B,Prerana B,Percentage,null,150,8,ABC
+06-Nov-22,Nov,Sunday,677,Prerana,B,Prerana B,Percentage,null,30,8,ABC
+07-Nov-22,Nov,Monday,215,Malavika ,H Naik,Malavika  H Naik,Vedic math,null,165,8,VVCE
+07-Nov-22,Nov,Monday,215,Malavika ,H Naik,Malavika  H Naik,Vedic math,null,120,8,VVCE
+07-Nov-22,Nov,Monday,215,Malavika ,H Naik,Malavika  H Naik,Vedic math,null,5,8,VVCE
+07-Nov-22,Nov,Monday,215,Malavika ,H Naik,Malavika  H Naik,Vedic math,null,155,8,VVCE
+07-Nov-22,Nov,Monday,167,Karan,B,Karan B,Spatial Sense,null,0,7,TQH
+07-Nov-22,Nov,Monday,167,Karan,B,Karan B,Spatial Sense,null,25,7,TQH
+07-Nov-22,Nov,Monday,167,Karan,B,Karan B,Spatial Sense,null,5,7,TQH
+07-Nov-22,Nov,Monday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,55,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,255,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,145,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,270,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,5,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,875,7,VVCE
+08-Nov-22,Nov,Tuesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 1,null,45,7,VVCE
+08-Nov-22,Nov,Tuesday,845,Jyothi,S,Jyothi S,The Easiest Scale on the Ukulele,null,30,8,VVCE
+08-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,150,4,TQH
+08-Nov-22,Nov,Tuesday,803,Rashmi ,R,Rashmi  R,How to create a story in scratch?,null,15,8,ABC
+08-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,140,4,TQH
+08-Nov-22,Nov,Tuesday,479,Prasad,M,Prasad M,Air Current,null,45,3,ABC
+08-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,130,4,TQH
+08-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Percentage,null,350,8,ABC
+08-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Percentage,null,310,8,ABC
+08-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Percentage,null,380,8,ABC
+08-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Percentage,null,100,8,ABC
+08-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,20,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,600,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,375,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,310,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,270,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,365,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,270,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,465,8,ABC
+10-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,5,8,ABC
+10-Nov-22,Nov,Thursday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,185,6,VVCE
+10-Nov-22,Nov,Thursday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,265,6,VVCE
+10-Nov-22,Nov,Thursday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,245,6,VVCE
+11-Nov-22,Nov,Friday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,340,6,VVCE
+11-Nov-22,Nov,Friday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,0,6,VVCE
+11-Nov-22,Nov,Friday,263,Hiranth,K,Hiranth K,The Pinwheel,null,730,9,ABC
+11-Nov-22,Nov,Friday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,220,4,TQH
+11-Nov-22,Nov,Friday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,175,4,TQH
+11-Nov-22,Nov,Friday,1031,Varshitha,KS,Varshitha KS,Digital Out - Buzzer,null,85,4,TQH
+11-Nov-22,Nov,Friday,1031,Varshitha,KS,Varshitha KS,Digital Out - Buzzer,null,230,4,TQH
+15-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Digital Out - Buzzer,null,535,4,TQH
+15-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Digital Out - Buzzer,null,760,4,TQH
+15-Nov-22,Nov,Tuesday,1031,Varshitha,KS,Varshitha KS,Digital Out - Buzzer,null,40,4,TQH
+15-Nov-22,Nov,Tuesday,677,Prerana,B,Prerana B,Prepositions and Conjunctions,null,30,8,ABC
+15-Nov-22,Nov,Tuesday,149,Sowmya,P,Sowmya P,5 Steps to Remain Focused,null,260,4,TQH
+16-Nov-22,Nov,Wednesday,1007,Samrithi,K,Samrithi K,Ukulele - Part 5,null,35,7,VVCE
+16-Nov-22,Nov,Wednesday,1007,Samrithi,K,Samrithi K,Dance Basics,null,0,7,VVCE
+16-Nov-22,Nov,Wednesday,1007,Samrithi,K,Samrithi K,Dance Basics,null,35,7,VVCE
+16-Nov-22,Nov,Wednesday,1007,Samrithi,K,Samrithi K,Dance Basics,null,0,7,VVCE
+16-Nov-22,Nov,Wednesday,179,Sri,Veda,Sri Veda,Introduction to Coding,null,35,9,VVCE
+16-Nov-22,Nov,Wednesday,317,Gagan,V,Gagan V,Money Management,null,0,4,ABC
+16-Nov-22,Nov,Wednesday,515,Hima,Bharathi,Hima Bharathi,Sense of Clothing and its Care,null,85,9,ABC
+16-Nov-22,Nov,Wednesday,515,Hima,Bharathi,Hima Bharathi,Sense of Clothing and its Care,null,0,9,ABC
+16-Nov-22,Nov,Wednesday,515,Hima,Bharathi,Hima Bharathi,Sense of Clothing and its Care,null,10,9,ABC
+16-Nov-22,Nov,Wednesday,245,ABINAYA,R,ABINAYA R,Shashankasana: The Rabbit Pose,null,0,6,ABC
+16-Nov-22,Nov,Wednesday,251,Bharath,M,Bharath M,Vajrasana: The Thunderbolt Pose,null,0,7,VVCE
+16-Nov-22,Nov,Wednesday,167,Karan,B,Karan B,Number hunt,null,0,7,TQH
+16-Nov-22,Nov,Wednesday,131,Ranjith,C,Ranjith C,Platform walkthrough and sprite objects,null,0,8,TQH
+16-Nov-22,Nov,Wednesday,137,Charan,M,Charan M,How to create a story in scratch?,null,0,9,ABC
+17-Nov-22,Nov,Thursday,137,Charan,M,Charan M,How to create a story in scratch?,null,150,9,ABC
+17-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Symmetry and Patterns,null,230,8,ABC
+17-Nov-22,Nov,Thursday,461,Yeshwanth,Kumar,Yeshwanth Kumar,Greetings and Wishes,null,10,7,ABC
+17-Nov-22,Nov,Thursday,677,Prerana,B,Prerana B,Symmetry and Patterns,null,110,8,ABC
+17-Nov-22,Nov,Thursday,569,CHIRADEEP.,R,CHIRADEEP. R,Favorite Cartoon Characters,null,25,4,ABC
+17-Nov-22,Nov,Thursday,569,CHIRADEEP.,R,CHIRADEEP. R,Favorite Cartoon Characters,null,60,4,ABC
+17-Nov-22,Nov,Thursday,509,Rishi,Prasad,Rishi Prasad,Bird Feeder,null,0,8,TQH
+17-Nov-22,Nov,Thursday,509,Rishi,Prasad,Rishi Prasad,Bird Feeder,null,0,8,TQH
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Flappy Santa,null,0,4,VVCE
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Floral Greeting Cards,null,5,4,VVCE
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Floral Greeting Cards,null,5,4,VVCE
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Floral Greeting Cards,null,5,4,VVCE
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Floral Greeting Cards,null,0,4,VVCE
+17-Nov-22,Nov,Thursday,485,Johan,,Johan ,Floral Greeting Cards,null,5,4,VVCE
+17-Nov-22,Nov,Thursday,881,Sharan,T,Sharan T,Wind Vane,null,10,7,VVCE
+17-Nov-22,Nov,Thursday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,0,6,VVCE
+18-Nov-22,Nov,Friday,317,Gagan,V,Gagan V,Money Management,null,0,4,ABC
+18-Nov-22,Nov,Friday,1031,Varshitha,KS,Varshitha KS,Conditional Statements in JavaScript,null,145,4,TQH
+18-Nov-22,Nov,Friday,179,Sri,Veda,Sri Veda,My Portfolio,null,0,9,VVCE
+18-Nov-22,Nov,Friday,905,Karthik,V,Karthik V,Temple Run,null,40,4,TQH
+18-Nov-22,Nov,Friday,593,Sudha,sree,Sudha sree,The Amazing World of Aves,null,245,8,VVCE
+18-Nov-22,Nov,Friday,893,Thanish,D,Thanish D,The Mesmerizing Era of Mammals,null,175,9,ABC
+19-Nov-22,Nov,Saturday,869,Ramya,S,Ramya S,Wind Vane,null,45,5,TQH
+19-Nov-22,Nov,Saturday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,175,3,ABC
+19-Nov-22,Nov,Saturday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,125,3,ABC
+19-Nov-22,Nov,Saturday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,60,6,VVCE
+19-Nov-22,Nov,Saturday,449,M,Koushik,M Koushik,Fastrack Memory,null,20,5,VVCE
+20-Nov-22,Nov,Sunday,449,M,Koushik,M Koushik,Fastrack Memory,null,15,5,VVCE
+20-Nov-22,Nov,Sunday,305,Praful,N,Praful N,The Pinwheel,null,35,9,VVCE
+20-Nov-22,Nov,Sunday,575,Shiva,Kumar,Shiva Kumar,Lightsaber,null,0,5,VVCE
+20-Nov-22,Nov,Sunday,581,Sohan,D,Sohan D,Money Management,null,145,6,TQH
+20-Nov-22,Nov,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,105,3,ABC
+20-Nov-22,Nov,Sunday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,40,3,ABC
+21-Nov-22,Nov,Monday,101,Mownesh,M,Mownesh M,Sarale Varase in Maya Malava Gowla - Part 1,null,215,3,ABC
+21-Nov-22,Nov,Monday,101,Mownesh,M,Mownesh M,"Phrases, Clauses and Idioms",null,600,3,ABC
+21-Nov-22,Nov,Monday,101,Mownesh,M,Mownesh M,Handmade Greeting Cards,null,10,3,ABC
+21-Nov-22,Nov,Monday,101,Mownesh,M,Mownesh M,A part of a whole,null,0,3,ABC
+21-Nov-22,Nov,Monday,659,Pooja,S,Pooja S,Vajrasana: The Thunderbolt Pose,null,140,5,ABC
+21-Nov-22,Nov,Monday,659,Pooja,S,Pooja S,Vajrasana: The Thunderbolt Pose,null,0,5,ABC
+21-Nov-22,Nov,Monday,659,Pooja,S,Pooja S,Vajrasana: The Thunderbolt Pose,null,100,5,ABC
+22-Nov-22,Nov,Tuesday,791,Navya,Sree,Navya Sree,Yummy Lassi,null,285,6,VVCE
+22-Nov-22,Nov,Tuesday,347,Kavana,K,Kavana K,Ukulele - Part 1,null,285,9,TQH
+22-Nov-22,Nov,Tuesday,605,Anish,G,Anish G,Math aptitude - 1,null,0,3,ABC
+22-Nov-22,Nov,Tuesday,605,Anish,G,Anish G,Scratch programming for beginners,null,10,3,ABC
+23-Nov-22,Nov,Wednesday,605,Anish,G,Anish G,Math aptitude - 1,null,0,3,ABC
+23-Nov-22,Nov,Wednesday,605,Anish,G,Anish G,Tic Tac Toe,null,0,3,ABC
+23-Nov-22,Nov,Wednesday,605,Anish,G,Anish G,Global finance,null,0,3,ABC
+23-Nov-22,Nov,Wednesday,809,Anjali ,K,Anjali  K,Lightsaber,null,0,9,VVCE
+23-Nov-22,Nov,Wednesday,809,Anjali ,K,Anjali  K,Lightsaber,null,25,9,VVCE
+23-Nov-22,Nov,Wednesday,833,Jayanthi,R,Jayanthi R,Let Me Tell You a Story,null,170,6,TQH
+23-Nov-22,Nov,Wednesday,407,Tejas,M,Tejas M,A part of a whole,null,0,5,ABC
+24-Nov-22,Nov,Thursday,593,Sudha,sree,Sudha sree,Basics of HTML,null,0,8,VVCE
+24-Nov-22,Nov,Thursday,599,Sanju,S.B,Sanju S.B,Handmade Birthday Cards,null,40,9,TQH
+24-Nov-22,Nov,Thursday,605,Anish,G,Anish G,Pot Painting with Warli Art,null,45,3,ABC
+24-Nov-22,Nov,Thursday,611,Sai,Jeevan,Sai Jeevan,Spider-Man Theme on the Ukulele,null,0,4,VVCE
+24-Nov-22,Nov,Thursday,899,Suma,M,Suma M,Introduction to Coding,null,245,3,VVCE
+24-Nov-22,Nov,Thursday,899,Suma,M,Suma M,Introduction to Coding,null,505,3,VVCE
+24-Nov-22,Nov,Thursday,965,Jaya,suryanath,Jaya suryanath,Warm Up and Cool Down,null,250,7,ABC
+24-Nov-22,Nov,Thursday,965,Jaya,suryanath,Jaya suryanath,Warm Up and Cool Down,null,10,7,ABC
+24-Nov-22,Nov,Thursday,899,Suma,M,Suma M,Introduction to Coding,null,160,3,VVCE
+24-Nov-22,Nov,Thursday,899,Suma,M,Suma M,Scratch programming for beginners,null,155,3,VVCE
+30-Nov-22,Nov,Wednesday,899,Suma,M,Suma M,Flare the academic fire,null,240,3,VVCE
+30-Nov-22,Nov,Wednesday,899,Suma,M,Suma M,Contours,null,0,3,VVCE
+30-Nov-22,Nov,Wednesday,899,Suma,M,Suma M,Contours,null,0,3,VVCE
+30-Nov-22,Nov,Wednesday,659,Pooja,S,Pooja S,Patterns everywhere!,null,40,5,ABC
+30-Nov-22,Nov,Wednesday,659,Pooja,S,Pooja S,Patterns everywhere!,null,530,5,ABC
+30-Nov-22,Nov,Wednesday,659,Pooja,S,Pooja S,Patterns everywhere!,null,15,5,ABC
+30-Nov-22,Nov,Wednesday,1031,Varshitha,KS,Varshitha KS,Sense of Clothing and its Care,null,55,4,TQH
+30-Nov-22,Nov,Wednesday,1031,Varshitha,KS,Varshitha KS,Sense of Clothing and its Care,null,485,4,TQH
+30-Nov-22,Nov,Wednesday,257,Lalitha,S,Lalitha S,Conversational English,null,160,8,TQH
+01-Dec-22,Dec,Thursday,257,Lalitha,S,Lalitha S,Conversational English,null,650,8,TQH
+01-Dec-22,Dec,Thursday,845,Jyothi,S,Jyothi S,Sense of Clothing and its Care,null,50,8,VVCE
+01-Dec-22,Dec,Thursday,845,Jyothi,S,Jyothi S,Sense of Clothing and its Care,null,15,8,VVCE
+01-Dec-22,Dec,Thursday,143,Pavan,P,Pavan P,Eating with Elegance,null,25,3,VVCE
+01-Dec-22,Dec,Thursday,149,Sowmya,P,Sowmya P,Jovial Japanese Characters,null,0,4,TQH
+01-Dec-22,Dec,Thursday,155,Pradeep,K,Pradeep K,App building Platform overview,null,0,5,ABC
+01-Dec-22,Dec,Thursday,137,Charan,M,Charan M,Maze Game,null,0,9,ABC
+01-Dec-22,Dec,Thursday,137,Charan,M,Charan M,Maze Game,null,0,9,ABC
+02-Dec-22,Dec,Friday,479,Prasad,M,Prasad M,How to create a story in scratch?,null,0,3,ABC
+02-Dec-22,Dec,Friday,935,Yathin,SD,Yathin SD,Spanish Translator,null,0,9,VVCE
+02-Dec-22,Dec,Friday,941,Puneeth,SM,Puneeth SM,Introduction to Coding,null,0,3,TQH
+02-Dec-22,Dec,Friday,947,Kaushik,M,Kaushik M,Money Management,null,25,4,ABC
+03-Dec-22,Dec,Saturday,953,Smitha ,M,Smitha  M,Rapport Building,null,40,5,VVCE
+03-Dec-22,Dec,Saturday,959,Mani,sai,Mani sai,Warm Up and Cool Down,null,35,6,TQH
+03-Dec-22,Dec,Saturday,1037,Stalin,,Stalin ,Dance Basics,null,0,5,ABC
+03-Dec-22,Dec,Saturday,1037,Stalin,,Stalin ,Dance Basics,null,250,5,ABC
+04-Dec-22,Dec,Sunday,1037,Stalin,,Stalin ,Dance Basics,null,725,5,ABC
+04-Dec-22,Dec,Sunday,1037,Stalin,,Stalin ,Dance Basics,null,0,5,ABC
+05-Dec-22,Dec,Monday,1037,Stalin,,Stalin ,Patterns everywhere!,null,0,5,ABC
+05-Dec-22,Dec,Monday,1037,Stalin,,Stalin ,Ukulele - Part 5,null,5,5,ABC
+05-Dec-22,Dec,Monday,761,Likhitha,s,Likhitha s,Temple Run,null,1490,8,TQH
+05-Dec-22,Dec,Monday,767,Anusree,D,Anusree D,Face detection using H.O.G!,null,335,9,ABC
+05-Dec-22,Dec,Monday,767,Anusree,D,Anusree D,Face detection using H.O.G!,null,85,9,ABC
+06-Dec-22,Dec,Tuesday,773,Asitha,P.S,Asitha P.S,The Pinwheel,null,5,3,VVCE
+06-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,0,4,TQH
+06-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,5,4,TQH
+06-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,5,4,TQH
+06-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,5,4,TQH
+06-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,10,4,TQH
+07-Dec-22,Dec,Wednesday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,10,5,VVCE
+07-Dec-22,Dec,Wednesday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,15,5,VVCE
+07-Dec-22,Dec,Wednesday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,10,5,VVCE
+07-Dec-22,Dec,Wednesday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,5,5,VVCE
+07-Dec-22,Dec,Wednesday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,0,5,VVCE
+08-Dec-22,Dec,Thursday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,5,5,VVCE
+08-Dec-22,Dec,Thursday,581,Sohan,D,Sohan D,Spatial Sense,null,25,6,TQH
+08-Dec-22,Dec,Thursday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+08-Dec-22,Dec,Thursday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+09-Dec-22,Dec,Friday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+09-Dec-22,Dec,Friday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+09-Dec-22,Dec,Friday,587,Shalani,M,Shalani M,Introduction to Electronics,null,0,7,ABC
+09-Dec-22,Dec,Friday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+09-Dec-22,Dec,Friday,587,Shalani,M,Shalani M,Introduction to Electronics,null,15,7,ABC
+09-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,5,4,ABC
+09-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,5,4,ABC
+16-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,0,4,ABC
+16-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,0,4,ABC
+16-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,0,4,ABC
+16-Dec-22,Dec,Friday,821,Anaga,M,Anaga M,Vrikshasana,null,15,4,ABC
+16-Dec-22,Dec,Friday,857,Keerthi,K,Keerthi K,Dance on Ghungroo,null,0,3,ABC
+16-Dec-22,Dec,Friday,857,Keerthi,K,Keerthi K,Dance on Ghungroo,null,10,3,ABC
+17-Dec-22,Dec,Saturday,857,Keerthi,K,Keerthi K,Dance on Ghungroo,null,265,3,ABC
+17-Dec-22,Dec,Saturday,857,Keerthi,K,Keerthi K,Dance on Halamithi Habibo,null,165,3,ABC
+17-Dec-22,Dec,Saturday,863,Yashika,SM,Yashika SM,Frogs - The Outstanding Amphibians,null,0,4,VVCE
+17-Dec-22,Dec,Saturday,863,Yashika,SM,Yashika SM,Frogs - The Outstanding Amphibians,null,740,4,VVCE
+17-Dec-22,Dec,Saturday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,30,5,VVCE
+17-Dec-22,Dec,Saturday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,5,5,VVCE
+18-Dec-22,Dec,Sunday,827,Durgesh,MR,Durgesh MR,Arduino - Digital Out - Motors,null,775,5,VVCE
+18-Dec-22,Dec,Sunday,587,Shalani,M,Shalani M,Introduction to Coding,null,245,7,ABC
+18-Dec-22,Dec,Sunday,269,Vignesh,Raj,Vignesh Raj,Number hunt,null,0,3,VVCE
+18-Dec-22,Dec,Sunday,275,Nithin,D,Nithin D,The Amazing World of Aves,null,10,4,TQH
+18-Dec-22,Dec,Sunday,275,Nithin,D,Nithin D,The Amazing World of Aves,null,20,4,TQH
+20-Dec-22,Dec,Tuesday,275,Nithin,D,Nithin D,The Amazing World of Aves,null,10,4,TQH
+20-Dec-22,Dec,Tuesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,265,7,ABC
+20-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,70,4,TQH
+20-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,15,4,TQH
+20-Dec-22,Dec,Tuesday,779,Preethi,M,Preethi M,Coco Shell Toys,null,485,4,TQH
+21-Dec-22,Dec,Wednesday,821,Anaga,M,Anaga M,Vrikshasana,null,175,4,ABC
+21-Dec-22,Dec,Wednesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,100,7,ABC
+21-Dec-22,Dec,Wednesday,509,Rishi,Prasad,Rishi Prasad,Air Current,null,0,8,TQH
+22-Dec-22,Dec,Thursday,143,Pavan,P,Pavan P,The Amazing World of Aves,null,120,3,VVCE
+22-Dec-22,Dec,Thursday,149,Sowmya,P,Sowmya P,Ukulele - Part 1,null,285,4,TQH
+22-Dec-22,Dec,Thursday,155,Pradeep,K,Pradeep K,Money Management,null,0,5,ABC
+23-Dec-22,Dec,Friday,155,Pradeep,K,Pradeep K,Money Management,null,0,5,ABC
+23-Dec-22,Dec,Friday,425,Neha,sree,Neha sree,Face detection using H.O.G!,null,0,8,ABC
+23-Dec-22,Dec,Friday,431,Jhanavi,C,Jhanavi C,Yummy Lassi,null,255,9,VVCE
+24-Dec-22,Dec,Saturday,437,Dayana,K,Dayana K,Digital Out - Buzzer,null,5,3,TQH
+24-Dec-22,Dec,Saturday,443,Sannidhi,BN,Sannidhi BN,Arduino - Digital Out - Motors,null,540,4,ABC
+24-Dec-22,Dec,Saturday,443,Sannidhi,BN,Sannidhi BN,Arduino - Digital Out - Motors,null,15,4,ABC
+24-Dec-22,Dec,Saturday,443,Sannidhi,BN,Sannidhi BN,Arduino - Digital Out - Motors,null,0,4,ABC
+24-Dec-22,Dec,Saturday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,20,9,VVCE
+24-Dec-22,Dec,Saturday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,25,9,VVCE
+25-Dec-22,Dec,Sunday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,515,9,VVCE
+25-Dec-22,Dec,Sunday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,540,9,VVCE
+25-Dec-22,Dec,Sunday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,410,9,VVCE
+26-Dec-22,Dec,Monday,431,Jhanavi,C,Jhanavi C,Floral Greeting Cards,null,10,9,VVCE
+26-Dec-22,Dec,Monday,821,Anaga,M,Anaga M,Vrikshasana,null,210,4,ABC
+26-Dec-22,Dec,Monday,821,Anaga,M,Anaga M,Vrikshasana,null,250,4,ABC
+26-Dec-22,Dec,Monday,821,Anaga,M,Anaga M,Vrikshasana,null,180,4,ABC
+26-Dec-22,Dec,Monday,821,Anaga,M,Anaga M,Vrikshasana,null,70,4,ABC
+27-Dec-22,Dec,Tuesday,821,Anaga,M,Anaga M,Vrikshasana,null,40,4,ABC
+27-Dec-22,Dec,Tuesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,450,7,ABC
+27-Dec-22,Dec,Tuesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,560,7,ABC
+27-Dec-22,Dec,Tuesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,440,7,ABC
+27-Dec-22,Dec,Tuesday,929,Kruthi,D,Kruthi D,Know yourself,null,0,8,ABC
+01-Jan-23,Jan,Sunday,929,Kruthi,D,Kruthi D,Know yourself,null,15,8,ABC
+01-Jan-23,Jan,Sunday,803,Rashmi ,R,Rashmi  R,Rapport Building,null,70,8,ABC
+01-Jan-23,Jan,Sunday,809,Anjali ,K,Anjali  K,Coco Shell Toys,null,265,9,VVCE
+02-Jan-23,Jan,Monday,815,Yasheshwini,MK,Yasheshwini MK,Coco Shell Toys,null,395,3,TQH
+02-Jan-23,Jan,Monday,587,Shalani,M,Shalani M,Introduction to Electronics,null,540,7,ABC
+02-Jan-23,Jan,Monday,587,Shalani,M,Shalani M,Introduction to Electronics,null,115,7,ABC
+03-Jan-23,Jan,Tuesday,587,Shalani,M,Shalani M,Introduction to Electronics,null,40,7,ABC
+03-Jan-23,Jan,Tuesday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,25,9,VVCE
+03-Jan-23,Jan,Tuesday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,240,9,VVCE
+04-Jan-23,Jan,Wednesday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,795,9,VVCE
+04-Jan-23,Jan,Wednesday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,580,9,VVCE
+04-Jan-23,Jan,Wednesday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,685,9,VVCE
+04-Jan-23,Jan,Wednesday,155,Pradeep,K,Pradeep K,Rapport Building,null,260,5,ABC
+05-Jan-23,Jan,Thursday,155,Pradeep,K,Pradeep K,Rapport Building,null,395,5,ABC
+05-Jan-23,Jan,Thursday,431,Jhanavi,C,Jhanavi C,Arduino - Digital Out - Motors,null,0,9,VVCE
+05-Jan-23,Jan,Thursday,767,Anusree,D,Anusree D,The Pinwheel,null,10,9,ABC
+06-Jan-23,Jan,Friday,275,Nithin,D,Nithin D,Money Management,null,0,4,TQH
+07-Jan-23,Jan,Saturday,899,Suma,M,Suma M,Ukulele - Part 2,null,45,3,VVCE
+07-Jan-23,Jan,Saturday,899,Suma,M,Suma M,Ukulele - Part 2,null,150,3,VVCE
+07-Jan-23,Jan,Saturday,899,Suma,M,Suma M,Ukulele - Part 1,null,0,3,VVCE
+07-Jan-23,Jan,Saturday,809,Anjali ,K,Anjali  K,Spatial Sense,null,0,9,VVCE
+07-Jan-23,Jan,Saturday,809,Anjali ,K,Anjali  K,Introduction to Coding,null,130,9,VVCE
+08-Jan-23,Jan,Sunday,809,Anjali ,K,Anjali  K,Yummy Lassi,null,250,9,VVCE
+09-Jan-23,Jan,Monday,809,Anjali ,K,Anjali  K,Yummy Lassi,null,220,9,VVCE
+09-Jan-23,Jan,Monday,809,Anjali ,K,Anjali  K,Yummy Lassi,null,5,9,VVCE
+09-Jan-23,Jan,Monday,809,Anjali ,K,Anjali  K,Yummy Lassi,null,230,9,VVCE
+10-Jan-23,Jan,Tuesday,941,Puneeth,SM,Puneeth SM,The Fascinating Kingdom of Fish,null,350,3,TQH
+10-Jan-23,Jan,Tuesday,845,Jyothi,S,Jyothi S,Grow and glow,null,0,8,VVCE
+10-Jan-23,Jan,Tuesday,845,Jyothi,S,Jyothi S,Grow and glow,null,305,8,VVCE
+11-Jan-23,Jan,Wednesday,845,Jyothi,S,Jyothi S,Grow and glow,null,0,8,VVCE
+11-Jan-23,Jan,Wednesday,845,Jyothi,S,Jyothi S,Grow and glow,null,290,8,VVCE
+12-Jan-23,Jan,Thursday,845,Jyothi,S,Jyothi S,Grow and glow,null,250,8,VVCE
+12-Jan-23,Jan,Thursday,845,Jyothi,S,Jyothi S,Grow and glow,null,210,8,VVCE
+12-Jan-23,Jan,Thursday,869,Ramya,S,Ramya S,Introduction to Electronics,null,145,5,TQH
+13-Jan-23,Jan,Friday,869,Ramya,S,Ramya S,Introduction to Electronics,null,455,5,TQH
+13-Jan-23,Jan,Friday,869,Ramya,S,Ramya S,Introduction to Electronics,null,560,5,TQH
+13-Jan-23,Jan,Friday,869,Ramya,S,Ramya S,Introduction to Electronics,null,0,5,TQH
+14-Jan-23,Jan,Saturday,869,Ramya,S,Ramya S,Introduction to Electronics,null,525,5,TQH
+14-Jan-23,Jan,Saturday,869,Ramya,S,Ramya S,Introduction to Electronics,null,0,5,TQH
+17-Jan-23,Jan,Tuesday,101,Mownesh,M,Mownesh M,7 Segment LED display,null,40,3,ABC
+17-Jan-23,Jan,Tuesday,863,Yashika,SM,Yashika SM,Frogs - The Outstanding Amphibians,null,0,4,VVCE
+17-Jan-23,Jan,Tuesday,479,Prasad,M,Prasad M,Sarale Varase in Maya Malava Gowla - Part 1,null,155,3,ABC
+18-Jan-23,Jan,Wednesday,935,Yathin,SD,Yathin SD,Digital Out - LEDs,null,30,9,VVCE
+18-Jan-23,Jan,Wednesday,941,Puneeth,SM,Puneeth SM,WHO AM I - Peep Into A Teen's Life,null,270,3,TQH
+18-Jan-23,Jan,Wednesday,659,Pooja,S,Pooja S,Floral Greeting Cards,null,20,5,ABC
