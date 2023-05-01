@@ -1,0 +1,1 @@
+The below dataset contains data about apps available on Google Playstore of different genres. The information collected includes App Name, Category, Ratings, Number of Reviews, Size of app, Number of installs, Type, Price, Content Rating, Genres, Last Updated, Current Version and Android Version
