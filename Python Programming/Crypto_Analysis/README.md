@@ -1,0 +1,1 @@
+The dataset is about different Cryptocurrenies and their market capitalization and volume of each crypto currency on a given particular date. Their opening price, High, Low as well as Closing prices is also included in the dataset.
