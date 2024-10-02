@@ -4,7 +4,9 @@ Key highlights:
 
 Writing efficient SQL queries
 
-Data extraction and transformation
+Data Cleaning and Transforming
+
+Data extraction and normalization
 
 Performance optimization techniques
 
